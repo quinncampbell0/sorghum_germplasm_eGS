@@ -1,11 +1,11 @@
-# Files contained here:
+Files contained here:
 
-# cluster_hierarchical_spatial.R completes hierarchical clustering of the study accessions using geographical coordinates
+cluster_hierarchical_spatial.R completes hierarchical clustering of the study accessions using geographical coordinates
 
-# gen_ids_for_pca.csv contains genotype IDs (gen_id) of all study accessions for use in the PCA analysis
+gen_ids_for_pca.csv contains genotype IDs (gen_id) of all study accessions for use in the PCA analysis
 
-# genomic_pca_scores.csv contains output of PCA analysis
+genomic_pca_scores.csv contains output of PCA analysis
 
-# hierarchical_clustering_envdat.R performs hierarchical clustering using environmental data (shown in Figure S4)
+hierarchical_clustering_envdat.R performs hierarchical clustering using environmental data (shown in Figure S4)
 
-# sorghum_genotype_pca_v2.R performs genetic clustering of study accessions using LD-filtered SNPs and plots these by region, landrace, and score
+sorghum_genotype_pca_v2.R performs genetic clustering of study accessions using LD-filtered SNPs and plots these by region, landrace, and score
