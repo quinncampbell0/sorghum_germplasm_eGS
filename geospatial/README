@@ -1,0 +1,22 @@
+Contains all geospatial raster files used in the study. 
+
+Future climate prediction data collected from:
+https://worldclim.org/
+All climatic CMIP6 data represent predictions for 2041-2060 under the SSP 585 scenario.
+
+Sorghum cropland data collected from:
+http://www.earthstat.org/
+
+bioclim_prc_max.tif and bioclim_prc_min.tif contain maximum and minimum CMIP6 prediction value (respectively) for each raster cell for each of the 8 precipitation-related bioclimatic variables used in the study
+
+bioclim_tmp_max.tif and bioclim_tmp_min.tif contain maximum and minimum CMIP6 prediction value (respectively) for each raster cell for each of the 9 temperature-related bioclimatic variables used in the study
+
+prc_max.tif and prc_min.tif contain the maximum and minimum CMIP6 prediction value (respectively) for each raster cell for average yearly precipitation
+  
+tmean_max.tif and tmean_min.tif contain the maximum and minimum CMIP6 prediction value (respectively) for each raster cell for average yearly temperature
+
+borders.tif contains the rasterized political boundaries for countries evaluated in the study
+
+sorghum.tif contains values for percent cover of sorghum cropland within each cell
+
+cropland.tif contains values for the percent cover of all cropland within each cell
