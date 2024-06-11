@@ -1,6 +1,12 @@
 # sorghum_germplasm_eGS
 Working scripts for manuscript "Climate resilience conserved in global germplasm repositories"
 
+Genotype data in the format used in the study can be found at:
+https://figshare.com/s/da4ad3fe9f749f2135b6
+
+Original genotype data downloaded from:
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.jc3ht
+
 The directories contained are described below:
 
 chromosome_map contains scripts for creating the chromosome heatmap and circos plot contained in Figure 4 of the manuscript, as well as the data file containing the marker effects for the sorghum accessions in the study
