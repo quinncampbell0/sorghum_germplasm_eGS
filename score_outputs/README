@@ -1,0 +1,5 @@
+Outputs of score calculations for Genomic Adaptive Capacity score and Climate Resilience score
+
+score_genomicselection_XXX files contain the final Genomic Adaptive Capacity score by country, region, accession, and subset of scores for the mini core
+
+score_futureclimates_XXX files contain the final Resilience score score by country, region, accession, and subset of scores for the full core and mini core
