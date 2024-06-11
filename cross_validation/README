@@ -1,0 +1,11 @@
+#Files contained here:
+
+# GS_allmodels_frac.R runs fractional cross-validation on each of four genomic selection models iteratively using 50%, 80%, and 90% of data as the test set
+
+# GS_allmodels_kfold.R runs k-fold cross-validation on each of four genomic selection models iteratively using 2, 5, and 10 folds as the test set
+
+# crossval_plotting_summarizing.R summarizes and plots the results of the cross-validations run by the two above scripts
+
+# xval_frac_functions.R and xval_kfold_functions.R contain scripts for all the functions called in GS_all_models_frac.R and GS_allmodels_kfold.R
+
+# xval_results_allmodels.csv contains the table of prediction accuracies from all cross-validations run in the above scripts
