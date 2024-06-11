@@ -1,0 +1,3 @@
+# This directory contains the input data for many of the scripts in other directories, which will be referenced in the code by relative path (./input_data/)
+# Genotype data can be found at: https://figshare.com/s/da4ad3fe9f749f2135b6
+
