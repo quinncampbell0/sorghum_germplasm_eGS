@@ -1,0 +1,7 @@
+Files contained here:
+
+GS_rrblup_full.R runs the environmental genomic selection pipeline using the RR-BLUP model
+
+score_climateresilience.R calculates the Climate Resilience score for all study accessions
+
+score_genomicselection_rrblup.R calculates the Genomic Adaptive Capacity score based on eGS for all study accessions
