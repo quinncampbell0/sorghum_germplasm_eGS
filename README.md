@@ -4,7 +4,7 @@ Working scripts for manuscript "Climate resilience conserved in global germplasm
 Genotype data in the format used in the study can be found at:
 https://figshare.com/s/da4ad3fe9f749f2135b6
 
-Original genotype data downloaded from:
+Original sequence data downloaded from:
 https://datadryad.org/stash/dataset/doi:10.5061/dryad.jc3ht
 
 The directories contained are described below:
