@@ -1,8 +1,8 @@
-The files in this directory are described below:
+Data and scripts to create chromosome heatmap and circos plot of eGS marker effects
 
-chromosome_ComplexHeatMap.R creates the heatmap of chromosomal effects from EGS, displayed in Figure 1
+  chromosome_ComplexHeatMap.R creates the heatmap of chromosomal effects from EGS, displayed in Figure 1
 
-circos_plot.R creates the circular heatmap of marker effects on precipitation seasonality for 1,115 SNPs (filtered for LD of 0.20) on chromosome 3. Genotypes shown, from outside in, include: the three genotypes with the 
-highest adaptive capacity, three genotypes from Uganda, and three genotypes from Somalia
+  circos_plot.R creates the circular heatmap of marker effects on precipitation seasonality for 1,115 SNPs (filtered for LD of 0.20) on chromosome 3. Genotypes shown, 
+                from outside in, include: the three genotypes with the highest adaptive capacity, three genotypes from Uganda, and three genotypes from Somalia
 
-marker_effects_chromosome_map.zip is the zipped data file containing the marker effects derived from eGS using RR-BLUP for each of the 404,627 SNPs used in the study
+  marker_effects_chromosome_map.zip is the zipped data file containing the marker effects derived from eGS using RR-BLUP for each of the 404,627 SNPs used in the study
