@@ -1,3 +1,13 @@
-# This directory contains the input data for many of the scripts in other directories, which will be referenced in the code by relative path (./input_data/)
-# Genotype data can be found at: https://figshare.com/s/da4ad3fe9f749f2135b6
+Contains the input data for many of the scripts in other directories, which will be referenced in the code by relative path (./input_data/)
+Genotype data can be found at: https://figshare.com/s/da4ad3fe9f749f2135b6
+Data for network map obtained from genesys-pgr.org
 
+Chromosomal_effects_XXX.csv files contain marker effect values summed over each of the 10 sorghum chromosomes for the entire sorghum collection evaluated in the study for the indicated variable
+
+envdat_master.csv and envdat_master.txt contain the environmental and geographic data for all accessions in the study
+  envdat_core.csv contains data from envdat_master subset to accessions in the ICRISAT sorghum core collection
+  envdat_master_races.csv contains data from envdat_master along with botanical race classification
+  envdat_minicore_genomicprediction.csv contains data from envdat_master subset to accessions in the ICRISAT sorghum mini core collection
+
+network_map_own_accessions.csv contains data on number of stored accessions that are sourced from within the holding country vs. sourced outside the country (Figure 4)
+network_map_point_coordinates.csv contains data on number of sorghum accessions sourced from each country and the locations of major sorghum genebanks
