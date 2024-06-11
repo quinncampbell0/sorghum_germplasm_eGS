@@ -1,4 +1,4 @@
-Files contained here:
+Contains scripts to perform cluster analyses and create related plots
 
 cluster_hierarchical_spatial.R completes hierarchical clustering of the study accessions using geographical coordinates
 
