@@ -1,8 +1,8 @@
 library(rrBLUP)
 library(dplyr)
 
-envdat <- read.table("/home/quinnc3/GenomicData/envdat_minicore_genomicprediction.txt", head = T)
-gd1 <- read.table("/home/quinnc3/GenomicData/sorghum_GD_numeric_rrblupformat.txt", head = T)
+envdat <- read.table("./input_data/envdat_minicore_genomicprediction.txt", head = T)
+gd1 <- read.table("./input_data/sorghum_GD_numeric_rrblupformat.txt", head = T)
 #gd1<- read.csv("sorghum_GM_testdata.csv")
 
 row.names(gd1) <- gd1$taxa
