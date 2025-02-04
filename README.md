@@ -19,14 +19,15 @@ All file paths in the provided scripts are relative to the base folder where git
 ## **3. Demo**
 Download Github Repository into folder, i.e. C:/sorghum_EGS
 To run environmental genomic selection and calculate the Genomic Adaptive Capacity Score in R:
-setwd("C:/sorghum_EGS/")
+`setwd("C:/sorghum_EGS/")`
 source("./score_calculation_scripts/GS_rrblup_full.R")
 source("./score_calculation_scripts/score_genomicselection_rrblup.R")
 
+Runtime will depend on system used. EGS and cross-validation scripts may require ~1 week of processing time on a standard laptop or desktop. 
 *Please note much of the data formatting in these scripts is hard-coded, so replacing the environmental data or genotype files with other datasets will require some re-coding*
 
 
-The directories contained are described below:
+###The directories contained are described below:###
 
   chromosome_map contains scripts for creating the chromosome heatmap and circos plot contained in Figure 4 of the manuscript, as well as the data file containing the marker effects for the sorghum accessions in the study
 
