@@ -30,7 +30,7 @@ Runtime will depend on system used. EGS and cross-validation scripts may require
 *Please note much of the data formatting in these scripts is hard-coded, so replacing the environmental data or genotype files with other datasets will require some re-coding*
 
 
-###The directories contained are described below:###
+### The directories contained are described below:
 
   chromosome_map contains scripts for creating the chromosome heatmap and circos plot contained in Figure 4 of the manuscript, as well as the data file containing the marker effects for the sorghum accessions in the study
 
