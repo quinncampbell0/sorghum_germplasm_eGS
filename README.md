@@ -7,12 +7,12 @@ https://figshare.com/s/da4ad3fe9f749f2135b6
 Original sequence data downloaded from:
 https://datadryad.org/stash/dataset/doi:10.5061/dryad.jc3ht
 
-# **1. System Requirements**
+### **1. System Requirements**
 All scripts were developed and run in R version 4.3.1.
 R version 4.3.1 is compatible with Windows 7 and later versions. For macOS users, R 4.3.1 supports both Intel and ARM architectures. Ensure that you download the appropriate installer for your system.
 R 4.3.1 requires a 64-bit operating system. An R installation typically requires up to 175 MB of disk space. For optimal performance, it's recommended to have at least 256 MB of RAM available when running R.
 
-2. Installation Guide
+### **2. Installation**
 Previous versions of R can be installed at: https://cran.r-project.org/bin/windows/base/old/
 All file paths in the provided scripts are relative to the base folder where github folders are downloaded. Set the working directory to the location where the sorghum_germplasm_eGS folders are downloaded.
 
