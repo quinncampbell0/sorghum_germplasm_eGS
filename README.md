@@ -1,5 +1,5 @@
 # sorghum_germplasm_eGS
-Working scripts for manuscript "Climate resilience conserved in global germplasm repositories"
+Working scripts for manuscript "Climate resilience conserved in global germplasm repositories: Picking the most promising parents for agile plant breeding"
 
 Genotype data in the format used in the study can be found at:
 https://figshare.com/s/da4ad3fe9f749f2135b6
@@ -26,7 +26,7 @@ To run environmental genomic selection and calculate the Genomic Adaptive Capaci
 
 `source("./score_calculation_scripts/score_genomicselection_rrblup.R")`
 
-Runtime will depend on system used. EGS and cross-validation scripts may require ~1 week of processing time on a standard laptop or desktop. 
+Runtime will depend on system used. EGS and cross-validation scripts may require up to 1 week of processing time on a standard laptop or desktop. 
 *Please note much of the data formatting in these scripts is hard-coded, so replacing the environmental data or genotype files with other datasets will require some re-coding*
 
 
