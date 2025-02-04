@@ -16,7 +16,14 @@ R 4.3.1 requires a 64-bit operating system. Maximum disk space required is aroun
 Previous versions of R can be installed at: https://cran.r-project.org/bin/windows/base/old/
 All file paths in the provided scripts are relative to the base folder where github folders are downloaded. Set the working directory to the location where the sorghum_germplasm_eGS folders are downloaded.
 
-3. Demo
+## **3. Demo**
+Download Github Repository into folder, i.e. C:/sorghum_EGS
+To run environmental genomic selection and calculate the Genomic Adaptive Capacity Score in R:
+setwd("C:/sorghum_EGS/")
+source("./score_calculation_scripts/GS_rrblup_full.R")
+source("./score_calculation_scripts/score_genomicselection_rrblup.R")
+
+*Please note much of the data formatting in these scripts is hard-coded, so replacing the environmental data or genotype files with other datasets will require some re-coding*
 
 
 The directories contained are described below:
