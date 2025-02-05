@@ -1,0 +1,1938 @@
+pi,country,region,score.prc,score.temp,score
+IS10068,Burkina Faso,West Africa,0,0.090909091,0.090909091
+IS10189,Burkina Faso,West Africa,0.166666667,0,0.166666667
+IS10191,Burkina Faso,West Africa,0,0,0
+IS1033,India,South Asia,0.166666667,0.454545455,0.621212121
+IS1036,India,South Asia,0,0,0
+IS1052,India,South Asia,0,0,0
+IS10876,Nigeria,West Africa,0,0,0
+IS10882,Nigeria,West Africa,0,0,0
+IS1106,India,South Asia,0,0,0
+IS1107,India,South Asia,0,0,0
+IS11119,Ethiopia,East Africa,0,0,0
+IS1127,India,South Asia,0,0,0
+IS11374,Ethiopia,East Africa,0,0,0
+IS11424,Ethiopia,East Africa,0,0,0
+IS11431,Ethiopia,East Africa,0,0,0
+IS11473,Eritrea,East Africa,0.166666667,0.818181818,0.984848485
+IS1151,India,South Asia,0.166666667,0.272727273,0.439393939
+IS11619,Ethiopia,East Africa,0.166666667,0,0.166666667
+IS11758,Ethiopia,East Africa,0,0,0
+IS1182,India,South Asia,0,0,0
+IS1186,India,South Asia,0,0,0
+IS1187,India,South Asia,0,0,0
+IS11919,Eritrea,East Africa,0,0,0
+IS11954,Eritrea,East Africa,0,0,0
+IS11960,Eritrea,East Africa,0,0,0
+IS12031,Ethiopia,East Africa,0,0,0
+IS12106,Ethiopia,East Africa,0,0,0
+IS12110,Ethiopia,East Africa,0,0,0
+IS12169,Ethiopia,East Africa,0,0,0
+IS1236,India,South Asia,0,0,0
+IS1240,India,South Asia,0,0,0
+IS1243,India,South Asia,0,0,0
+IS1246,India,South Asia,0,0,0
+IS12531,Ethiopia,East Africa,0,0,0
+IS1257,India,South Asia,0,0.090909091,0.090909091
+IS12584,Kenya,East Africa,0.166666667,0,0.166666667
+IS12590,Kenya,East Africa,0,0,0
+IS12606,Philippines,South Asia,0.166666667,0,0.166666667
+IS12734,China,East Asia,0,0.090909091,0.090909091
+IS12740,China,East Asia,0,0.090909091,0.090909091
+IS12779,Turkey,West Asia,0,0.090909091,0.090909091
+IS12782,Turkey,West Asia,0,0.090909091,0.090909091
+IS12789,Turkey,West Asia,0,0.090909091,0.090909091
+IS12793,Turkey,West Asia,0,0.090909091,0.090909091
+IS12796,Turkey,West Asia,0.166666667,0.090909091,0.257575758
+IS12801,Turkey,West Asia,0,0.090909091,0.090909091
+IS12804,Turkey,West Asia,0.166666667,0.090909091,0.257575758
+IS12805,Turkey,West Asia,0,0.090909091,0.090909091
+IS12808,Turkey,West Asia,0,0.090909091,0.090909091
+IS12810,Turkey,West Asia,0,0.090909091,0.090909091
+IS12811,Turkey,West Asia,0,0.090909091,0.090909091
+IS12813,Turkey,West Asia,0,0.090909091,0.090909091
+IS12815,Turkey,West Asia,0,0,0
+IS12817,Turkey,West Asia,0,0.090909091,0.090909091
+IS12818,Turkey,West Asia,0,0.090909091,0.090909091
+IS12819,Turkey,West Asia,0,0.090909091,0.090909091
+IS12821,Turkey,West Asia,0,0.090909091,0.090909091
+IS12822,Turkey,West Asia,0,0.090909091,0.090909091
+IS13148,Iraq,West Asia,0,0,0
+IS13155,Turkey,West Asia,0,0,0
+IS13263,India,South Asia,0,0.090909091,0.090909091
+IS13264,India,South Asia,0,0.090909091,0.090909091
+IS13515,Saudi Arabia,West Asia,0,0,0
+IS1360,India,South Asia,0.166666667,0.363636364,0.53030303
+IS1371,India,South Asia,0,0,0
+IS13782,South Africa,South Africa,0,0,0
+IS13791,South Africa,South Africa,0,0,0
+IS13827,South Africa,South Africa,0,0,0
+IS13845,South Africa,South Africa,0,0,0
+IS13893,South Africa,South Africa,0,0,0
+IS13919,South Africa,South Africa,0,0,0
+IS13926,South Africa,South Africa,0,0,0
+IS13971,South Africa,South Africa,0,0,0
+IS1398,Sudan,East Africa,0,0,0
+IS13989,South Africa,South Africa,0,0,0
+IS1401,Pakistan,South Asia,0,0,0
+IS14010,South Africa,South Africa,0,0,0
+IS14133,Turkey,West Asia,0,0,0
+IS1416,India,South Asia,0,0,0
+IS1425,India,South Asia,0,0,0
+IS14444,India,South Asia,0,0,0
+IS14446,Sudan,East Africa,0,0,0
+IS14449,Sudan,East Africa,0,0,0
+IS14478,South Sudan,East Africa,0,0,0
+IS14556,Ethiopia,East Africa,0,0,0
+IS14564,Sudan,East Africa,0,0,0
+IS14567,Sudan,East Africa,0,0,0
+IS14635,Ethiopia,East Africa,0,0,0
+IS1464,India,South Asia,0,0,0
+IS1469,India,South Asia,0,0,0
+IS14719,Ethiopia,East Africa,0,0,0
+IS1472,India,South Asia,0,0,0
+IS14724,Ethiopia,East Africa,0,0,0
+IS14735,Ethiopia,East Africa,0,0,0
+IS1477,India,South Asia,0,0,0
+IS1520,India,South Asia,0,0,0
+IS1523,India,South Asia,0,0,0
+IS1540,India,South Asia,0,0,0
+IS17149,Nigeria,West Africa,0,0,0
+IS17185,Nigeria,West Africa,0,0,0
+IS17195,Nigeria,West Africa,0,0,0
+IS17196,Nigeria,West Africa,0,0,0
+IS17669,India,South Asia,0,0,0
+IS17671,India,South Asia,0,0,0
+IS17749,India,South Asia,0,0,0
+IS17752,India,South Asia,0,0,0
+IS17766,India,South Asia,0,0,0
+IS17815,India,South Asia,0,0,0
+IS17819,India,South Asia,0,0,0
+IS17857,India,South Asia,0,0,0
+IS17864,India,South Asia,0,0,0
+IS17872,India,South Asia,0,0,0
+IS17885,India,South Asia,0,0,0
+IS17891,India,South Asia,0,0,0
+IS17896,India,South Asia,0,0,0
+IS17905,India,South Asia,0,0,0
+IS17909,India,South Asia,0,0,0
+IS17912,India,South Asia,0,0.090909091,0.090909091
+IS17917,India,South Asia,0,0.090909091,0.090909091
+IS17919,India,South Asia,0,0.090909091,0.090909091
+IS17920,India,South Asia,0.166666667,0.363636364,0.53030303
+IS17921,India,South Asia,0,0,0
+IS17922,India,South Asia,0,0.090909091,0.090909091
+IS17925,India,South Asia,0,0,0
+IS17926,India,South Asia,0.166666667,0.181818182,0.348484848
+IS17929,India,South Asia,0.166666667,0.454545455,0.621212121
+IS17930,India,South Asia,0.166666667,0.454545455,0.621212121
+IS17933,India,South Asia,0.166666667,0.181818182,0.348484848
+IS17937,India,South Asia,0.166666667,0.454545455,0.621212121
+IS17941,India,South Asia,0.166666667,0.454545455,0.621212121
+IS17942,India,South Asia,0.166666667,0.181818182,0.348484848
+IS17958,India,South Asia,0,0.363636364,0.363636364
+IS17980,India,South Asia,0,0.454545455,0.454545455
+IS18039,India,South Asia,0,0.454545455,0.454545455
+IS18234,Bangladesh,South Asia,0,0,0
+IS18235,Bangladesh,South Asia,0,0,0
+IS18236,Bangladesh,South Asia,0,0,0
+IS18238,Bangladesh,South Asia,0,0,0
+IS18295,Niger,West Africa,0,0,0
+IS18303,Niger,West Africa,0,0,0
+IS18822,Sudan,East Africa,0,0,0
+IS18948,India,South Asia,0,0,0
+IS19016,Sudan,East Africa,0,0,0
+IS19026,Sudan,East Africa,0,0,0
+IS19041,Sudan,East Africa,0,0,0
+IS19126,Sudan,East Africa,0,0,0
+IS19132,Sudan,East Africa,0,0,0
+IS19153,Sudan,East Africa,0,0.272727273,0.272727273
+IS19262,Sudan,East Africa,0,0,0
+IS19477,South Sudan,East Africa,0,0,0
+IS19485,South Sudan,East Africa,0,0,0
+IS19494,South Sudan,East Africa,0,0,0
+IS19507,South Sudan,East Africa,0,0,0
+IS19513,South Sudan,East Africa,0,0,0
+IS19520,South Sudan,East Africa,0,0,0
+IS19677,India,South Asia,0,0,0
+IS19680,India,South Asia,0,0,0
+IS19685,India,South Asia,0,0,0
+IS19698,India,South Asia,0,0,0
+IS19700,India,South Asia,0.166666667,0,0.166666667
+IS19706,India,South Asia,0.166666667,0,0.166666667
+IS19732,India,South Asia,0.333333333,0.272727273,0.606060606
+IS19758,India,South Asia,0,0.363636364,0.363636364
+IS19804,India,South Asia,0.333333333,0.454545455,0.787878788
+IS19847,India,South Asia,0,0.090909091,0.090909091
+IS19859,India,South Asia,0.333333333,0.545454545,0.878787879
+IS19946,Senegal,West Africa,0,0,0
+IS19950,Senegal,West Africa,0,0.090909091,0.090909091
+IS19953,Senegal,West Africa,0.166666667,0.090909091,0.257575758
+IS19956,Senegal,West Africa,0,0,0
+IS19962,Senegal,West Africa,0,0,0
+IS19975,Senegal,West Africa,0.333333333,0.090909091,0.424242424
+IS19978,Senegal,West Africa,0.166666667,0,0.166666667
+IS19982,Senegal,West Africa,0,0,0
+IS19988,Senegal,West Africa,0,0,0
+IS19991,Senegal,West Africa,0.166666667,0.363636364,0.53030303
+IS19998,Senegal,West Africa,0.166666667,0,0.166666667
+IS20004,Senegal,West Africa,0.166666667,0.090909091,0.257575758
+IS20016,Senegal,West Africa,0.166666667,0,0.166666667
+IS20024,Senegal,West Africa,0.166666667,0,0.166666667
+IS20027,Senegal,West Africa,0,0,0
+IS20028,Senegal,West Africa,0,0,0
+IS20049,Senegal,West Africa,0,0,0
+IS20064,Senegal,West Africa,0.166666667,0,0.166666667
+IS20073,Senegal,West Africa,0,0,0
+IS20087,Senegal,West Africa,0,0.363636364,0.363636364
+IS20105,Senegal,West Africa,0.166666667,0,0.166666667
+IS20116,Senegal,West Africa,0,0.363636364,0.363636364
+IS20125,Senegal,West Africa,0,0,0
+IS20158,Niger,West Africa,0,0,0
+IS20164,Niger,West Africa,0,0,0
+IS20166,Niger,West Africa,0,0,0
+IS20173,Niger,West Africa,0,0,0
+IS20187,Niger,West Africa,0,0,0
+IS20216,Niger,West Africa,0,0,0
+IS20225,Niger,West Africa,0,0,0
+IS20230,Niger,West Africa,0,0,0
+IS20234,Niger,West Africa,0,0,0
+IS20243,Niger,West Africa,0,0,0
+IS20250,Niger,West Africa,0,0,0
+IS20261,Niger,West Africa,0,0,0
+IS20300,Niger,West Africa,0,0,0
+IS20307,Niger,West Africa,0,0,0
+IS20314,Niger,West Africa,0,0,0
+IS20328,Niger,West Africa,0,0,0
+IS20345,Niger,West Africa,0,0,0
+IS20348,Niger,West Africa,0,0,0
+IS20363,Niger,West Africa,0,0,0
+IS20364,Niger,West Africa,0,0,0
+IS20378,Niger,West Africa,0,0,0
+IS20398,Niger,West Africa,0,0,0
+IS20441,Niger,West Africa,0.166666667,0,0.166666667
+IS20448,Niger,West Africa,0,0,0
+IS20450,Niger,West Africa,0,0,0
+IS20452,Niger,West Africa,0,0,0
+IS20460,Niger,West Africa,0,0,0
+IS20463,Niger,West Africa,0,0,0
+IS20488,Niger,West Africa,0,0,0
+IS20490,Niger,West Africa,0,0.090909091,0.090909091
+IS20492,Niger,West Africa,0,0,0
+IS20497,Niger,West Africa,0,0,0
+IS20498,Niger,West Africa,0,0,0
+IS20905,Chad,Central Africa,0,0,0
+IS21015,Kenya,East Africa,0.333333333,0,0.333333333
+IS21055,Kenya,East Africa,0.333333333,0,0.333333333
+IS21083,Kenya,East Africa,0.333333333,0,0.333333333
+IS21124,Kenya,East Africa,0.333333333,0,0.333333333
+IS21126,Kenya,East Africa,0,0,0
+IS21139,Kenya,East Africa,0.333333333,0,0.333333333
+IS21155,Kenya,East Africa,0.333333333,0.090909091,0.424242424
+IS21160,Kenya,East Africa,0.333333333,0,0.333333333
+IS21169,Kenya,East Africa,0.333333333,0,0.333333333
+IS21186,Kenya,East Africa,0.333333333,0,0.333333333
+IS21309,Kenya,East Africa,0,0,0
+IS21310,Kenya,East Africa,0,0,0
+IS21323,Kenya,East Africa,0,0,0
+IS21328,Kenya,East Africa,0,0,0
+IS21343,Kenya,East Africa,0,0,0
+IS21347,Kenya,East Africa,0.333333333,0,0.333333333
+IS21401,Malawi,East Africa,0,0,0
+IS21403,Malawi,East Africa,0.166666667,0.090909091,0.257575758
+IS21425,Malawi,East Africa,0.166666667,0.090909091,0.257575758
+IS21464,Malawi,East Africa,0.166666667,0.181818182,0.348484848
+IS21512,Malawi,East Africa,0.166666667,0.181818182,0.348484848
+IS21519,Malawi,East Africa,0.166666667,0,0.166666667
+IS21521,Malawi,East Africa,0.166666667,0,0.166666667
+IS21522,Malawi,East Africa,0,0,0
+IS21535,Malawi,East Africa,0,0,0
+IS21545,Malawi,East Africa,0.166666667,0,0.166666667
+IS21546,Malawi,East Africa,0,0,0
+IS21557,Mozambique,East Africa,0,0,0
+IS2156,Nigeria,West Africa,0,0,0
+IS21565,Malawi,East Africa,0,0,0
+IS21583,Malawi,East Africa,0,0.090909091,0.090909091
+IS21631,Malawi,East Africa,0,0,0
+IS21645,Malawi,East Africa,0.166666667,0.181818182,0.348484848
+IS21863,Syrian Arab Republic,West Asia,0,0.090909091,0.090909091
+IS21976,India,South Asia,0,0,0
+IS21982,India,South Asia,0,0,0
+IS21991,India,South Asia,0,0,0
+IS21996,India,South Asia,0.166666667,0.363636364,0.53030303
+IS21997,India,South Asia,0.166666667,0.363636364,0.53030303
+IS22001,India,South Asia,0.166666667,0.363636364,0.53030303
+IS22009,India,South Asia,0,0,0
+IS22019,India,South Asia,0.166666667,0.181818182,0.348484848
+IS22025,Jammu-Kashmir,South Asia,0,0.090909091,0.090909091
+IS22026,India,South Asia,0,0,0
+IS22040,India,South Asia,0,0,0
+IS2205,India,South Asia,0,0,0
+IS2206,India,South Asia,0,0,0
+IS22074,India,South Asia,0,0,0
+IS22100,India,South Asia,0,0,0
+IS22104,India,South Asia,0,0,0
+IS22193,India,South Asia,0,0,0
+IS22239,Botswana,South Africa,0,0,0
+IS22282,Botswana,South Africa,0,0,0
+IS22287,Botswana,South Africa,0,0,0
+IS22291,Botswana,South Africa,0,0,0
+IS22294,Botswana,South Africa,0,0,0
+IS22325,Botswana,South Africa,0,0,0
+IS22330,Botswana,South Africa,0,0,0
+IS22334,Botswana,South Africa,0,0,0
+IS22598,Sri Lanka,South Asia,0,0,0
+IS22601,Sri Lanka,South Asia,0,0,0
+IS22604,Sri Lanka,South Asia,0.666666667,0.090909091,0.757575758
+IS22608,Sri Lanka,South Asia,0.333333333,0.090909091,0.424242424
+IS22609,Sri Lanka,South Asia,0.5,0.272727273,0.772727273
+IS22615,Myanmar,South Asia,0,0,0
+IS22616,Myanmar,South Asia,0,0.090909091,0.090909091
+IS22618,Myanmar,South Asia,0,0,0
+IS2262,Sudan,East Africa,0,0,0
+IS22701,Somalia,East Africa,0,0.454545455,0.454545455
+IS22702,Somalia,East Africa,0,0.181818182,0.181818182
+IS22720,Somalia,East Africa,0,0.454545455,0.454545455
+IS22742,Somalia,East Africa,0,0.181818182,0.181818182
+IS22746,Somalia,East Africa,0,0.363636364,0.363636364
+IS22751,Somalia,East Africa,0,0.272727273,0.272727273
+IS22785,Somalia,East Africa,0,0.181818182,0.181818182
+IS22789,Somalia,East Africa,0,0.090909091,0.090909091
+IS22792,Somalia,East Africa,0,0.454545455,0.454545455
+IS22799,Somalia,East Africa,0,0.636363636,0.636363636
+IS22909,Sudan,East Africa,0,0,0
+IS22986,Sudan,East Africa,0,0.545454545,0.545454545
+IS22996,Sudan,East Africa,0,0,0
+IS23033,Sudan,East Africa,0,0,0
+IS23048,Sudan,East Africa,0,0,0
+IS23053,Sudan,East Africa,0,0,0
+IS23100,United Republic of Tanzania,East Africa,0,0,0
+IS23108,United Republic of Tanzania,East Africa,0,0.090909091,0.090909091
+IS23142,United Republic of Tanzania,East Africa,0,0,0
+IS23166,United Republic of Tanzania,East Africa,0,0,0
+IS23178,Zambia,East Africa,0,0,0
+IS23184,Zambia,East Africa,0,0,0
+IS23188,Zambia,East Africa,0,0,0
+IS23216,Zambia,East Africa,0.166666667,0,0.166666667
+IS23225,Zambia,East Africa,0,0,0
+IS23240,Zambia,East Africa,0.166666667,0,0.166666667
+IS23248,Zambia,East Africa,0,0,0
+IS23262,Zambia,East Africa,0,0,0
+IS23263,Zambia,East Africa,0,0,0
+IS23275,Zambia,East Africa,0.166666667,0,0.166666667
+IS23283,Zambia,East Africa,0,0,0
+IS23298,Zambia,East Africa,0.166666667,0,0.166666667
+IS23306,Zambia,East Africa,0,0,0
+IS23308,Zambia,East Africa,0,0,0
+IS23319,Zambia,East Africa,0,0,0
+IS23322,Zambia,East Africa,0,0,0
+IS23335,Zambia,East Africa,0,0,0
+IS23341,Zambia,East Africa,0,0,0
+IS23357,Zambia,East Africa,0,0,0
+IS23358,Zambia,East Africa,0,0,0
+IS23363,Zambia,East Africa,0,0,0
+IS23366,Zambia,East Africa,0,0,0
+IS23367,Zambia,East Africa,0,0,0
+IS23370,Zambia,East Africa,0,0,0
+IS23373,Zambia,East Africa,0,0,0
+IS23375,Zambia,East Africa,0,0,0
+IS23376,Zambia,East Africa,0,0,0
+IS23514,Ethiopia,East Africa,0,0.545454545,0.545454545
+IS23521,Ethiopia,East Africa,0,0.454545455,0.454545455
+IS23574,Ethiopia,East Africa,0,0,0
+IS23579,Ethiopia,East Africa,0,0.545454545,0.545454545
+IS23586,Ethiopia,East Africa,0,0.363636364,0.363636364
+IS23590,Ethiopia,East Africa,0,0.363636364,0.363636364
+IS23601,Ethiopia,East Africa,0,0.181818182,0.181818182
+IS23615,Ethiopia,East Africa,0,0,0
+IS23644,Gambia,West Africa,0.166666667,0.363636364,0.53030303
+IS23645,Gambia,West Africa,0.333333333,0,0.333333333
+IS23651,Gambia,West Africa,0,0,0
+IS23666,Gambia,West Africa,0.166666667,0,0.166666667
+IS23669,Gambia,West Africa,0.166666667,0,0.166666667
+IS2367,Nigeria,West Africa,0,0,0
+IS23674,Gambia,West Africa,0,0,0
+IS23675,Mozambique,East Africa,0.166666667,0,0.166666667
+IS23679,Mozambique,East Africa,0.166666667,0,0.166666667
+IS23684,Mozambique,East Africa,0.166666667,0.090909091,0.257575758
+IS23685,Mozambique,East Africa,0.166666667,0,0.166666667
+IS23687,Mozambique,East Africa,0.166666667,0,0.166666667
+IS23693,Mozambique,East Africa,0.166666667,0.090909091,0.257575758
+IS23694,Mozambique,East Africa,0.166666667,0,0.166666667
+IS23698,Mozambique,East Africa,0.166666667,0,0.166666667
+IS23700,Mozambique,East Africa,0,0,0
+IS2371,Indonesia,South Asia,0,0,0
+IS23711,Mozambique,East Africa,0.166666667,0,0.166666667
+IS2379,South Africa,South Africa,0,0,0
+IS2382,South Africa,South Africa,0,0,0
+IS2397,South Africa,South Africa,0,0,0
+IS2416,South Africa,South Africa,0,0,0
+IS24283,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS24286,United Republic of Tanzania,East Africa,0,0,0
+IS24287,United Republic of Tanzania,East Africa,0,0,0
+IS24288,United Republic of Tanzania,East Africa,0,0,0
+IS24292,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS24294,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS24297,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS24299,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS2430,Nigeria,West Africa,0.166666667,0,0.166666667
+IS24302,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS24308,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS24309,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS24327,India,South Asia,0,0.363636364,0.363636364
+IS24332,India,South Asia,0.166666667,0.454545455,0.621212121
+IS24334,India,South Asia,0.166666667,0.363636364,0.53030303
+IS24336,India,South Asia,0.166666667,0.272727273,0.439393939
+IS24348,India,South Asia,0.166666667,0.454545455,0.621212121
+IS24360,India,South Asia,0,0,0
+IS24369,India,South Asia,0,0,0
+IS24379,India,South Asia,0.166666667,0.363636364,0.53030303
+IS24386,India,South Asia,0.166666667,0.363636364,0.53030303
+IS24389,India,South Asia,0.166666667,0,0.166666667
+IS24413,India,South Asia,0.166666667,0.454545455,0.621212121
+IS24416,India,South Asia,0.166666667,0.090909091,0.257575758
+IS24417,India,South Asia,0,0,0
+IS24713,Nigeria,West Africa,0,0,0
+IS24775,Nigeria,West Africa,0,0,0
+IS24786,Nigeria,West Africa,0,0,0
+IS24875,Nigeria,West Africa,0,0,0
+IS25055,Ghana,West Africa,0,0,0
+IS25098,Ghana,West Africa,0,0,0
+IS25506,Burundi,East Africa,0.166666667,0,0.166666667
+IS25522,Burundi,East Africa,0,0,0
+IS25523,Burundi,East Africa,0,0,0
+IS25524,Burundi,East Africa,0,0,0
+IS25543,Rwanda,East Africa,0,0,0
+IS25548,Rwanda,East Africa,0.166666667,0,0.166666667
+IS25670,Mali,West Africa,0,0,0
+IS25690,Mali,West Africa,0,0,0
+IS25694,Mali,West Africa,0,0,0
+IS25702,Mali,West Africa,0,0,0
+IS25706,Mali,West Africa,0,0,0
+IS25708,Mali,West Africa,0,0,0
+IS25722,Mali,West Africa,0,0,0
+IS25732,Mali,West Africa,0.166666667,0.454545455,0.621212121
+IS25733,Mali,West Africa,0,0,0
+IS25752,Mali,West Africa,0,0,0
+IS25766,Mali,West Africa,0.166666667,0,0.166666667
+IS25772,Mali,West Africa,0,0,0
+IS25783,Mali,West Africa,0,0,0
+IS25784,Mali,West Africa,0,0,0
+IS25798,Mali,West Africa,0.166666667,0,0.166666667
+IS25804,Mali,West Africa,0,0,0
+IS25812,Mali,West Africa,0,0,0
+IS25816,Mali,West Africa,0,0,0
+IS25836,Mali,West Africa,0.166666667,0.636363636,0.803030303
+IS25839,Mali,West Africa,0,0,0
+IS25848,Mali,West Africa,0,0,0
+IS25865,Mali,West Africa,0,0,0
+IS25868,Mali,West Africa,0,0,0
+IS25877,Mali,West Africa,0.166666667,0,0.166666667
+IS25888,Mali,West Africa,0,0,0
+IS25912,Mali,West Africa,0.166666667,0,0.166666667
+IS25913,Mali,West Africa,0,0,0
+IS25921,Mali,West Africa,0.166666667,0,0.166666667
+IS25931,Mali,West Africa,0.166666667,0,0.166666667
+IS25936,Mali,West Africa,0.166666667,0,0.166666667
+IS25945,Mali,West Africa,0,0.272727273,0.272727273
+IS25966,Mali,West Africa,0,0,0
+IS25985,Mali,West Africa,0,0.090909091,0.090909091
+IS25987,Mali,West Africa,0.166666667,0,0.166666667
+IS25989,Mali,West Africa,0.166666667,0,0.166666667
+IS26000,Mali,West Africa,0,0,0
+IS26005,Mali,West Africa,0,0,0
+IS26008,Mali,West Africa,0,0,0
+IS26025,Mali,West Africa,0,0,0
+IS26031,Mali,West Africa,0.166666667,0.272727273,0.439393939
+IS26056,Mali,West Africa,0.166666667,0.090909091,0.257575758
+IS26072,Mali,West Africa,0,0.272727273,0.272727273
+IS26090,Mali,West Africa,0,0,0
+IS26091,Mali,West Africa,0,0,0
+IS26101,Mali,West Africa,0,0,0
+IS26103,Mali,West Africa,0,0,0
+IS26108,Mali,West Africa,0,0,0
+IS26110,Mali,West Africa,0,0,0
+IS26123,Mali,West Africa,0,0,0
+IS26131,Mali,West Africa,0,0,0
+IS26136,Mali,West Africa,0,0,0
+IS26137,Mali,West Africa,0,0,0
+IS26142,Mali,West Africa,0,0.363636364,0.363636364
+IS26147,Mali,West Africa,0,0,0
+IS26148,Mali,West Africa,0.166666667,0.090909091,0.257575758
+IS26198,Togo,West Africa,0,0.090909091,0.090909091
+IS26222,Togo,West Africa,0,0.545454545,0.545454545
+IS26224,Togo,West Africa,0,0,0
+IS26282,Togo,West Africa,0,0.545454545,0.545454545
+IS26285,Togo,West Africa,0.166666667,0.090909091,0.257575758
+IS26370,Togo,West Africa,0,0,0
+IS26376,Togo,West Africa,0,0,0
+IS26390,Togo,West Africa,0,0,0
+IS26404,Togo,West Africa,0,0,0
+IS26419,Benin,West Africa,0,0,0
+IS26434,Benin,West Africa,0,0,0
+IS26485,Benin,West Africa,0,0,0
+IS26516,Benin,West Africa,0,0.545454545,0.545454545
+IS26532,Benin,West Africa,0,0,0
+IS26540,Benin,West Africa,0,0.090909091,0.090909091
+IS26548,Benin,West Africa,0,0.090909091,0.090909091
+IS26565,Benin,West Africa,0,0,0
+IS26566,Benin,West Africa,0,0,0
+IS26575,Benin,West Africa,0,0.090909091,0.090909091
+IS26576,Benin,West Africa,0,0,0
+IS26579,Benin,West Africa,0,0,0
+IS26588,Benin,West Africa,0,0,0
+IS26594,Benin,West Africa,0,0.090909091,0.090909091
+IS26596,Benin,West Africa,0,0,0
+IS26598,Benin,West Africa,0,0.363636364,0.363636364
+IS26602,Benin,West Africa,0,0,0
+IS26634,Zambia,East Africa,0,0,0
+IS26635,Zambia,East Africa,0,0,0
+IS26638,Zambia,East Africa,0,0,0
+IS26641,Zambia,East Africa,0,0,0
+IS26821,Yemen,West Asia,0,0,0
+IS26827,Yemen,West Asia,0,0,0
+IS26837,South Sudan,East Africa,0,0,0
+IS26925,India,South Asia,0,0,0
+IS26978,India,South Asia,0,0,0
+IS26991,India,South Asia,0,0,0
+IS26993,India,South Asia,0.166666667,0,0.166666667
+IS27003,India,South Asia,0,0,0
+IS27071,Zimbabwe,East Africa,0.166666667,0,0.166666667
+IS27087,Zimbabwe,East Africa,0,0,0
+IS27100,Zimbabwe,East Africa,0.166666667,0,0.166666667
+IS27123,Zimbabwe,East Africa,0,0,0
+IS27129,Zimbabwe,East Africa,0,0,0
+IS27132,Zimbabwe,East Africa,0,0,0
+IS27137,Zimbabwe,East Africa,0,0,0
+IS27139,Zimbabwe,East Africa,0,0,0
+IS27146,Zimbabwe,East Africa,0,0,0
+IS27156,Zimbabwe,East Africa,0,0,0
+IS27164,Zimbabwe,East Africa,0,0,0
+IS27165,Zimbabwe,East Africa,0,0,0
+IS27167,Zimbabwe,East Africa,0.166666667,0,0.166666667
+IS27169,Zimbabwe,East Africa,0,0,0
+IS27179,Zimbabwe,East Africa,0,0,0
+IS27215,Zimbabwe,East Africa,0,0,0
+IS27222,Zimbabwe,East Africa,0.166666667,0.090909091,0.257575758
+IS27233,Zimbabwe,East Africa,0,0,0
+IS27253,Zimbabwe,East Africa,0,0,0
+IS27287,Burkina Faso,West Africa,0,0.181818182,0.181818182
+IS27292,Burkina Faso,West Africa,0,0,0
+IS27336,Burkina Faso,West Africa,0,0,0
+IS27387,Burkina Faso,West Africa,0,0,0
+IS27393,Burkina Faso,West Africa,0,0.454545455,0.454545455
+IS27490,Burkina Faso,West Africa,0,0,0
+IS27502,Burkina Faso,West Africa,0,0,0
+IS27527,Burkina Faso,West Africa,0,0.090909091,0.090909091
+IS27557,Burkina Faso,West Africa,0,0.636363636,0.636363636
+IS27587,Cameroon,Central Africa,0,0,0
+IS27599,Cameroon,Central Africa,0,0,0
+IS27680,Sierra Leone,West Africa,0.333333333,0.181818182,0.515151515
+IS27697,Sierra Leone,West Africa,0.333333333,0.272727273,0.606060606
+IS27708,Sierra Leone,West Africa,0.333333333,0.181818182,0.515151515
+IS27717,Sierra Leone,West Africa,0.333333333,0.181818182,0.515151515
+IS27726,Sierra Leone,West Africa,0.166666667,0.181818182,0.348484848
+IS27736,Sierra Leone,West Africa,0.333333333,0.181818182,0.515151515
+IS27740,Sierra Leone,West Africa,0.166666667,0.090909091,0.257575758
+IS27766,Sierra Leone,West Africa,0.333333333,0.181818182,0.515151515
+IS27775,Sierra Leone,West Africa,0.166666667,0.090909091,0.257575758
+IS27855,South Africa,South Africa,0,0,0
+IS27858,South Africa,South Africa,0,0,0
+IS27859,South Africa,South Africa,0,0,0
+IS27887,South Africa,South Africa,0,0,0
+IS27912,South Africa,South Africa,0,0,0
+IS27942,Yemen,West Asia,0,0,0
+IS28036,Yemen,West Asia,0,0,0
+IS28086,Yemen,West Asia,0,0,0
+IS28141,Yemen,West Asia,0,0,0
+IS28143,Yemen,West Asia,0,0,0
+IS28313,Yemen,West Asia,0,0,0
+IS28317,Yemen,West Asia,0,0,0
+IS28332,Yemen,West Asia,0,0,0
+IS28444,Yemen,West Asia,0,0,0
+IS28449,Yemen,West Asia,0,0.727272727,0.727272727
+IS28451,Yemen,West Asia,0,0.727272727,0.727272727
+IS28453,Yemen,West Asia,0,0,0
+IS28614,Yemen,West Asia,0,0,0
+IS28688,Yemen,West Asia,0,0,0
+IS28740,Yemen,West Asia,0,0,0
+IS28747,Yemen,West Asia,0,0.272727273,0.272727273
+IS28749,Yemen,West Asia,0,0,0
+IS28849,Yemen,West Asia,0,0.090909091,0.090909091
+IS28966,Yemen,West Asia,0,0,0
+IS28991,Yemen,West Asia,0,0,0
+IS29053,Yemen,West Asia,0,0,0
+IS29091,Yemen,West Asia,0,0,0
+IS29100,Yemen,West Asia,0,0.545454545,0.545454545
+IS29187,Eswatini,South Africa,0.333333333,0,0.333333333
+IS29228,Eswatini,South Africa,0,0,0
+IS29233,Eswatini,South Africa,0.333333333,0,0.333333333
+IS29239,Eswatini,South Africa,0.333333333,0,0.333333333
+IS29241,Eswatini,South Africa,0.333333333,0,0.333333333
+IS29304,Eswatini,South Africa,0.333333333,0,0.333333333
+IS29310,Eswatini,South Africa,0,0,0
+IS29314,Eswatini,South Africa,0,0,0
+IS29326,Eswatini,South Africa,0.333333333,0,0.333333333
+IS29335,Eswatini,South Africa,0.333333333,0,0.333333333
+IS29358,Lesotho,South Africa,0,0,0
+IS29392,Lesotho,South Africa,0,0,0
+IS29407,Lesotho,South Africa,0,0,0
+IS29409,Lesotho,South Africa,0,0,0
+IS29441,South Africa,South Africa,0,0,0
+IS29468,Lesotho,South Africa,0,0,0
+IS29472,Lesotho,South Africa,0,0,0
+IS29496,Lesotho,South Africa,0,0,0
+IS29565,Lesotho,South Africa,0,0,0
+IS29568,Lesotho,South Africa,0,0,0
+IS29569,Lesotho,South Africa,0,0,0
+IS29582,Lesotho,South Africa,0,0,0
+IS29685,Zimbabwe,East Africa,0,0,0
+IS29689,Zimbabwe,East Africa,0,0,0
+IS29691,Zimbabwe,East Africa,0.166666667,0,0.166666667
+IS29714,Zimbabwe,East Africa,0,0,0
+IS29733,Zimbabwe,East Africa,0,0,0
+IS29757,Zimbabwe,East Africa,0,0,0
+IS29772,Zimbabwe,East Africa,0.166666667,0,0.166666667
+IS29798,Zimbabwe,East Africa,0.166666667,0,0.166666667
+IS29808,Zimbabwe,East Africa,0,0,0
+IS29838,Zimbabwe,East Africa,0,0,0
+IS29856,Zimbabwe,East Africa,0.166666667,0,0.166666667
+IS29860,Zimbabwe,East Africa,0,0,0
+IS29866,Zimbabwe,East Africa,0,0,0
+IS29870,Zimbabwe,East Africa,0,0,0
+IS29872,Zimbabwe,East Africa,0,0,0
+IS29876,Zimbabwe,East Africa,0,0,0
+IS29911,Zimbabwe,East Africa,0,0,0
+IS29914,Zimbabwe,East Africa,0,0,0
+IS29950,Zimbabwe,East Africa,0,0,0
+IS29966,Zimbabwe,East Africa,0,0,0
+IS29977,Zimbabwe,East Africa,0,0,0
+IS30024,Zimbabwe,East Africa,0,0,0
+IS30079,Zimbabwe,East Africa,0,0,0
+IS30092,Zimbabwe,East Africa,0,0,0
+IS30095,Zimbabwe,East Africa,0,0,0
+IS30122,Zimbabwe,East Africa,0,0,0
+IS30145,Zimbabwe,East Africa,0,0,0
+IS30175,Zimbabwe,East Africa,0.166666667,0,0.166666667
+IS30205,Zimbabwe,East Africa,0,0,0
+IS30207,Zimbabwe,East Africa,0,0,0
+IS30213,Zimbabwe,East Africa,0,0,0
+IS30231,Zimbabwe,East Africa,0.166666667,0,0.166666667
+IS30318,China,East Asia,0,0.090909091,0.090909091
+IS30319,China,East Asia,0,0.090909091,0.090909091
+IS30335,China,East Asia,0,0.090909091,0.090909091
+IS30359,China,East Asia,0,0.090909091,0.090909091
+IS30360,China,East Asia,0,0.090909091,0.090909091
+IS30371,China,East Asia,0,0.090909091,0.090909091
+IS30383,China,East Asia,0,0.090909091,0.090909091
+IS30391,China,East Asia,0,0.090909091,0.090909091
+IS30397,China,East Asia,0,0.090909091,0.090909091
+IS30398,China,East Asia,0,0.090909091,0.090909091
+IS30400,China,East Asia,0,0.090909091,0.090909091
+IS30401,China,East Asia,0,0.090909091,0.090909091
+IS30405,China,East Asia,0,0.090909091,0.090909091
+IS30407,China,East Asia,0,0.090909091,0.090909091
+IS30409,China,East Asia,0,0.090909091,0.090909091
+IS30417,China,East Asia,0,0.090909091,0.090909091
+IS30422,China,East Asia,0,0.090909091,0.090909091
+IS30436,China,East Asia,0,0.090909091,0.090909091
+IS30441,China,East Asia,0,0.090909091,0.090909091
+IS30443,China,East Asia,0,0.090909091,0.090909091
+IS30444,China,East Asia,0,0.090909091,0.090909091
+IS30450,China,East Asia,0,0.090909091,0.090909091
+IS30451,China,East Asia,0,0.090909091,0.090909091
+IS30452,China,East Asia,0,0.090909091,0.090909091
+IS30455,China,East Asia,0,0.090909091,0.090909091
+IS30460,China,East Asia,0,0.090909091,0.090909091
+IS30466,China,East Asia,0,0.090909091,0.090909091
+IS30572,Cameroon,Central Africa,0,0.818181818,0.818181818
+IS30619,Cameroon,Central Africa,0,0,0
+IS3073,Sudan,East Africa,0,0,0
+IS30748,Cameroon,Central Africa,0,0,0
+IS3075,Sudan,East Africa,0,0,0
+IS30838,Cameroon,Central Africa,0,0.090909091,0.090909091
+IS30853,Cameroon,Central Africa,0,0,0
+IS30855,Cameroon,Central Africa,0,0,0
+IS30858,Cameroon,Central Africa,0,0,0
+IS30860,Cameroon,Central Africa,0,0,0
+IS30864,Cameroon,Central Africa,0,0,0
+IS30867,Cameroon,Central Africa,0,0,0
+IS30868,Cameroon,Central Africa,0,0,0
+IS30898,Uganda,East Africa,0,0,0
+IS31043,Uganda,East Africa,0,0.090909091,0.090909091
+IS31123,Uganda,East Africa,0.333333333,0,0.333333333
+IS31179,Uganda,East Africa,0,0,0
+IS31186,Uganda,East Africa,0.333333333,0,0.333333333
+IS31195,Uganda,East Africa,0.333333333,0,0.333333333
+IS31202,Uganda,East Africa,0.166666667,0,0.166666667
+IS3127,Afghanistan,South Asia,0,0,0
+IS31299,Uganda,East Africa,0.5,0,0.5
+IS31446,Uganda,East Africa,0.333333333,0.090909091,0.424242424
+IS31533,Burundi,East Africa,0,0,0
+IS31557,Burundi,East Africa,0.166666667,0,0.166666667
+IS31559,Burundi,East Africa,0,0,0
+IS31666,Democratic Republic of the Congo,Central Africa,0.166666667,0,0.166666667
+IS31706,Yemen,West Asia,0,0,0
+IS31714,Yemen,West Asia,0,0,0
+IS31852,Yemen,West Asia,0,0,0
+IS31861,Yemen,West Asia,0,0,0
+IS31869,Yemen,West Asia,0,0,0
+IS31965,Yemen,West Asia,0,0,0
+IS32050,Yemen,West Asia,0,0,0
+IS32087,Yemen,West Asia,0,0,0
+IS32092,Yemen,West Asia,0,0,0
+IS32150,Yemen,West Asia,0,0,0
+IS32245,Yemen,West Asia,0,0,0
+IS32262,Yemen,West Asia,0,0,0
+IS32337,India,South Asia,0,0,0
+IS32349,India,South Asia,0.166666667,0,0.166666667
+IS32357,India,South Asia,0.166666667,0,0.166666667
+IS32370,India,South Asia,0,0,0
+IS32373,India,South Asia,0.166666667,0,0.166666667
+IS32401,India,South Asia,0.166666667,0,0.166666667
+IS32404,India,South Asia,0,0,0
+IS32405,India,South Asia,0.166666667,0,0.166666667
+IS32420,India,South Asia,0,0,0
+IS32425,India,South Asia,0,0,0
+IS32426,India,South Asia,0,0,0
+IS32439,India,South Asia,0.166666667,0.181818182,0.348484848
+IS32449,India,South Asia,0,0,0
+IS32454,India,South Asia,0.166666667,0,0.166666667
+IS32459,India,South Asia,0.166666667,0,0.166666667
+IS32461,India,South Asia,0.166666667,0,0.166666667
+IS32471,India,South Asia,0.166666667,0,0.166666667
+IS32475,India,South Asia,0.166666667,0,0.166666667
+IS32506,India,South Asia,0,0,0
+IS32569,Somalia,East Africa,0,0.090909091,0.090909091
+IS32571,Somalia,East Africa,0,0.272727273,0.272727273
+IS32685,Somalia,East Africa,0,0.272727273,0.272727273
+IS32754,Somalia,East Africa,0,0,0
+IS32986,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS33023,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS33173,Cameroon,Central Africa,0,0,0
+IS33178,Cameroon,Central Africa,0,0,0
+IS33209,Cameroon,Central Africa,0,0,0
+IS33242,Cameroon,Central Africa,0,0,0
+IS33261,Cameroon,Central Africa,0,0,0
+IS33716,India,South Asia,0,0,0
+IS33844,India,South Asia,0,0,0
+IS33861,India,South Asia,0,0,0
+IS33973,India,South Asia,0,0,0
+IS33984,India,South Asia,0,0,0
+IS34008,India,South Asia,0,0,0
+IS34017,India,South Asia,0.333333333,0.363636364,0.696969697
+IS34029,India,South Asia,0,0,0
+IS34035,India,South Asia,0.166666667,0.363636364,0.53030303
+IS34067,India,South Asia,0.333333333,0.363636364,0.696969697
+IS34083,India,South Asia,0.166666667,0.454545455,0.621212121
+IS34139,India,South Asia,0,0.454545455,0.454545455
+IS34150,India,South Asia,0.166666667,0.363636364,0.53030303
+IS34219,India,South Asia,0,0,0
+IS34226,Botswana,South Africa,0,0,0
+IS3443,Sudan,East Africa,0,0,0
+IS3457,South Sudan,East Africa,0,0,0
+IS34778,Central African Republic,Central Africa,0,0,0
+IS34781,Central African Republic,Central Africa,0,0,0
+IS34814,Central African Republic,Central Africa,0,0,0
+IS34840,Central African Republic,Central Africa,0,0,0
+IS34851,Central African Republic,Central Africa,0,0,0
+IS34860,Central African Republic,Central Africa,0,0,0
+IS34895,Central African Republic,Central Africa,0,0,0
+IS34901,Central African Republic,Central Africa,0,0,0
+IS34906,Central African Republic,Central Africa,0,0,0
+IS34908,Central African Republic,Central Africa,0,0,0
+IS34909,Central African Republic,Central Africa,0,0,0
+IS34913,Central African Republic,Central Africa,0,0,0
+IS34928,Central African Republic,Central Africa,0,0,0
+IS34938,Central African Republic,Central Africa,0,0,0
+IS34939,Central African Republic,Central Africa,0,0,0
+IS34947,Central African Republic,Central Africa,0,0,0
+IS34954,Central African Republic,Central Africa,0,0,0
+IS34965,Central African Republic,Central Africa,0,0,0
+IS34976,Democratic Republic of the Congo,Central Africa,0,0,0
+IS3507,Sudan,East Africa,0,0,0
+IS3511,Sudan,East Africa,0.166666667,0.090909091,0.257575758
+IS35170,Botswana,South Africa,0,0,0
+IS35214,Pakistan,South Asia,0,0,0
+IS35215,Pakistan,South Asia,0,0,0
+IS35218,Pakistan,South Asia,0.166666667,0.090909091,0.257575758
+IS35222,Pakistan,South Asia,0,0,0
+IS35225,Pakistan,South Asia,0,0,0
+IS35229,Pakistan,South Asia,0,0,0
+IS35230,Pakistan,South Asia,0,0,0
+IS35231,Pakistan,South Asia,0,0,0
+IS35239,Pakistan,South Asia,0,0,0
+IS35240,Pakistan,South Asia,0,0,0
+IS35244,Pakistan,South Asia,0,0,0
+IS35246,Pakistan,South Asia,0.166666667,0.272727273,0.439393939
+IS35250,Pakistan,South Asia,0.166666667,0.181818182,0.348484848
+IS35254,Pakistan,South Asia,0,0,0
+IS35255,Pakistan,South Asia,0,0,0
+IS35427,Uganda,East Africa,0.166666667,0,0.166666667
+IS35471,Namibia,South Africa,0,0,0
+IS35475,Namibia,South Africa,0,0,0
+IS35478,Namibia,South Africa,0,0,0
+IS35480,Angola,Central Africa,0,0,0
+IS35483,Namibia,South Africa,0,0,0
+IS35503,Namibia,South Africa,0,0,0
+IS35506,Namibia,South Africa,0,0,0
+IS35507,Namibia,South Africa,0,0,0
+IS35509,Namibia,South Africa,0,0,0
+IS35510,Namibia,South Africa,0,0,0
+IS35522,Namibia,South Africa,0,0,0
+IS35526,Namibia,South Africa,0,0,0
+IS35553,Namibia,South Africa,0,0,0
+IS35567,Namibia,South Africa,0,0,0
+IS35570,Namibia,South Africa,0,0,0
+IS35574,Namibia,South Africa,0,0,0
+IS35579,Namibia,South Africa,0,0,0
+IS35602,Namibia,South Africa,0,0,0
+IS35604,Namibia,South Africa,0,0,0
+IS3582,Sudan,East Africa,0,0,0
+IS3583,Sudan,East Africa,0,0,0
+IS36052,India,South Asia,0,0,0
+IS36058,India,South Asia,0,0,0
+IS36060,India,South Asia,0,0,0
+IS36081,India,South Asia,0,0,0
+IS36088,India,South Asia,0,0,0
+IS36100,India,South Asia,0,0,0
+IS36102,India,South Asia,0,0.090909091,0.090909091
+IS36239,India,South Asia,0,0,0
+IS36247,India,South Asia,0,0,0
+IS36317,India,South Asia,0,0,0
+IS36324,India,South Asia,0,0,0
+IS36329,India,South Asia,0,0,0
+IS36336,India,South Asia,0,0,0
+IS36342,India,South Asia,0,0,0
+IS36398,India,South Asia,0,0,0
+IS36401,India,South Asia,0,0,0
+IS36403,India,South Asia,0,0,0
+IS36404,India,South Asia,0,0,0
+IS36450,India,South Asia,0,0.090909091,0.090909091
+IS36452,India,South Asia,0,0,0
+IS3696,Republic of China,East Asia,0,0.090909091,0.090909091
+IS37124,Zambia,East Africa,0,0,0
+IS37125,Zambia,East Africa,0,0,0
+IS37127,Zambia,East Africa,0,0,0
+IS37128,Zambia,East Africa,0,0,0
+IS37129,Zambia,East Africa,0,0,0
+IS37133,Zambia,East Africa,0,0,0
+IS37134,Zambia,East Africa,0,0,0
+IS37135,Zambia,East Africa,0,0,0
+IS37136,Zambia,East Africa,0,0,0
+IS37140,Zambia,East Africa,0,0,0
+IS37146,Namibia,South Africa,0,0,0
+IS37203,India,South Asia,0,0,0
+IS37234,India,South Asia,0,0,0
+IS37569,Ethiopia,East Africa,0,0,0
+IS3762,Japan,East Asia,0,0.090909091,0.090909091
+IS37746,Ethiopia,East Africa,0,0,0
+IS37978,Ethiopia,East Africa,0,0,0
+IS38021,Ethiopia,East Africa,0,0,0
+IS38026,Ethiopia,East Africa,0,0,0
+IS38159,Ethiopia,East Africa,0,0,0
+IS38683,Ethiopia,East Africa,0,0,0
+IS3885,Mali,West Africa,0,0,0
+IS3905,Mali,West Africa,0,0,0
+IS39453,Ethiopia,East Africa,0,0,0
+IS39462,Ethiopia,East Africa,0,0,0
+IS39463,Ethiopia,East Africa,0,0,0
+IS39474,Ethiopia,East Africa,0,0,0
+IS39496,Ethiopia,East Africa,0,0,0
+IS39525,Ethiopia,East Africa,0,0,0
+IS39672,Nigeria,West Africa,0,0,0
+IS39677,Nigeria,West Africa,0,0,0
+IS39713,Nigeria,West Africa,0,0.363636364,0.363636364
+IS39764,Nigeria,West Africa,0,0,0
+IS39778,Nigeria,West Africa,0,0.090909091,0.090909091
+IS39780,Nigeria,West Africa,0,0,0
+IS39783,Nigeria,West Africa,0,0,0
+IS39791,Nigeria,West Africa,0,0,0
+IS39797,Nigeria,West Africa,0,0,0
+IS39809,Nigeria,West Africa,0,0,0
+IS39810,Nigeria,West Africa,0,0,0
+IS39814,Nigeria,West Africa,0,0,0
+IS39815,Nigeria,West Africa,0,0,0
+IS39819,Nigeria,West Africa,0,0,0
+IS39913,Uganda,East Africa,0.333333333,0,0.333333333
+IS39915,Uganda,East Africa,0.166666667,0,0.166666667
+IS40005,Uganda,East Africa,0.333333333,0,0.333333333
+IS4003,India,South Asia,0.166666667,0,0.166666667
+IS40033,Nigeria,West Africa,0,0.454545455,0.454545455
+IS40034,Nigeria,West Africa,0,0.090909091,0.090909091
+IS40036,Nigeria,West Africa,0,0,0
+IS40215,India,South Asia,0.166666667,0,0.166666667
+IS4027,India,South Asia,0,0,0
+IS40272,India,South Asia,0,0,0
+IS40306,India,South Asia,0,0,0
+IS40307,India,South Asia,0,0,0
+IS40324,India,South Asia,0,0,0
+IS40325,India,South Asia,0,0,0
+IS40329,India,South Asia,0,0,0
+IS4035,India,South Asia,0.166666667,0.090909091,0.257575758
+IS40373,Uganda,East Africa,0,0,0
+IS4060,India,South Asia,0.166666667,0.454545455,0.621212121
+IS4064,India,South Asia,0,0.090909091,0.090909091
+IS40729,India,South Asia,0,0,0
+IS40730,India,South Asia,0,0,0
+IS40757,India,South Asia,0,0,0
+IS40771,India,South Asia,0,0,0
+IS40791,India,South Asia,0,0,0
+IS40803,India,South Asia,0,0,0
+IS40819,India,South Asia,0,0,0
+IS40822,India,South Asia,0,0,0
+IS40824,India,South Asia,0,0,0
+IS40841,India,South Asia,0,0,0
+IS4092,India,South Asia,0.166666667,0.454545455,0.621212121
+IS4112,India,South Asia,0,0,0
+IS4127,India,South Asia,0.333333333,0.363636364,0.696969697
+IS4207,India,South Asia,0.333333333,0.363636364,0.696969697
+IS4246,India,South Asia,0.166666667,0.363636364,0.53030303
+IS4248,India,South Asia,0.333333333,0.363636364,0.696969697
+IS4254,India,South Asia,0.166666667,0.363636364,0.53030303
+IS4269,India,South Asia,0.333333333,0.363636364,0.696969697
+IS4277,India,South Asia,0,0,0
+IS4285,India,South Asia,0,0.545454545,0.545454545
+IS4307,India,South Asia,0.166666667,0.454545455,0.621212121
+IS4308,India,South Asia,0.166666667,0.454545455,0.621212121
+IS4332,India,South Asia,0.333333333,0.363636364,0.696969697
+IS4339,India,South Asia,0.166666667,0.181818182,0.348484848
+IS4347,India,South Asia,0.333333333,0.454545455,0.787878788
+IS4360,India,South Asia,0.333333333,0.454545455,0.787878788
+IS4372,India,South Asia,0.333333333,0.272727273,0.606060606
+IS4378,India,South Asia,0.166666667,0.454545455,0.621212121
+IS4405,India,South Asia,0.333333333,0.363636364,0.696969697
+IS4416,India,South Asia,0,0,0
+IS4489,India,South Asia,0.333333333,0.363636364,0.696969697
+IS4515,India,South Asia,0,0.181818182,0.181818182
+IS4543,India,South Asia,0,0,0
+IS4581,India,South Asia,0,0.090909091,0.090909091
+IS4613,India,South Asia,0,0.090909091,0.090909091
+IS4631,India,South Asia,0,0.090909091,0.090909091
+IS4698,India,South Asia,0.166666667,0,0.166666667
+IS4726,India,South Asia,0.333333333,0.272727273,0.606060606
+IS4734,India,South Asia,0,0,0
+IS4758,India,South Asia,0,0,0
+IS4776,India,South Asia,0,0.090909091,0.090909091
+IS4788,India,South Asia,0,0.090909091,0.090909091
+IS4798,India,South Asia,0,0,0
+IS4809,India,South Asia,0,0,0
+IS4821,India,South Asia,0,0.363636364,0.363636364
+IS4855,India,South Asia,0.166666667,0.363636364,0.53030303
+IS4951,India,South Asia,0,0.181818182,0.181818182
+IS4963,India,South Asia,0,0,0
+IS5094,India,South Asia,0,0.454545455,0.454545455
+IS5106,India,South Asia,0,0,0
+IS5125,India,South Asia,0,0,0
+IS5134,India,South Asia,0,0,0
+IS5139,India,South Asia,0,0,0
+IS5158,India,South Asia,0,0,0
+IS5166,India,South Asia,0,0,0
+IS5177,India,South Asia,0,0,0
+IS5194,India,South Asia,0,0,0
+IS5219,India,South Asia,0,0,0
+IS5233,India,South Asia,0,0,0
+IS5257,India,South Asia,0,0,0
+IS5282,India,South Asia,0,0,0
+IS5290,India,South Asia,0,0,0
+IS5295,India,South Asia,0.166666667,0,0.166666667
+IS5301,India,South Asia,0,0.181818182,0.181818182
+IS5313,India,South Asia,0,0,0
+IS5325,India,South Asia,0.166666667,0,0.166666667
+IS5326,India,South Asia,0,0,0
+IS5328,India,South Asia,0,0,0
+IS5335,India,South Asia,0.166666667,0,0.166666667
+IS5339,India,South Asia,0,0,0
+IS5348,India,South Asia,0,0,0
+IS5386,India,South Asia,0,0.181818182,0.181818182
+IS5404,India,South Asia,0,0,0
+IS5409,India,South Asia,0,0,0
+IS5456,India,South Asia,0,0,0
+IS5464,India,South Asia,0,0,0
+IS5469,India,South Asia,0,0,0
+IS5491,India,South Asia,0,0,0
+IS5499,India,South Asia,0,0,0
+IS5622,India,South Asia,0,0,0
+IS5667,India,South Asia,0,0,0
+IS5689,India,South Asia,0,0,0
+IS5720,India,South Asia,0,0,0
+IS5788,India,South Asia,0.333333333,0.363636364,0.696969697
+IS5804,India,South Asia,0.333333333,0.454545455,0.787878788
+IS5815,India,South Asia,0.333333333,0.454545455,0.787878788
+IS5818,India,South Asia,0.333333333,0.454545455,0.787878788
+IS5824,India,South Asia,0.166666667,0.454545455,0.621212121
+IS5832,India,South Asia,0,0,0
+IS5839,India,South Asia,0.166666667,0.454545455,0.621212121
+IS5855,India,South Asia,0,0,0
+IS5867,India,South Asia,0.166666667,0.090909091,0.257575758
+IS5900,India,South Asia,0.166666667,0,0.166666667
+IS5910,India,South Asia,0.166666667,0,0.166666667
+IS5919,India,South Asia,0.333333333,0.272727273,0.606060606
+IS5928,India,South Asia,0,0,0
+IS5972,India,South Asia,0.333333333,0.454545455,0.787878788
+IS5980,India,South Asia,0.333333333,0.454545455,0.787878788
+IS5995,India,South Asia,0.166666667,0.272727273,0.439393939
+IS6004,Jammu-Kashmir,South Asia,0.333333333,0.363636364,0.696969697
+IS6024,India,South Asia,0,0.272727273,0.272727273
+IS6035,India,South Asia,0,0,0
+IS6094,India,South Asia,0,0,0
+IS6095,India,South Asia,0.333333333,0.363636364,0.696969697
+IS6099,India,South Asia,0.333333333,0.454545455,0.787878788
+IS6106,India,South Asia,0.166666667,0.090909091,0.257575758
+IS6116,India,South Asia,0.333333333,0.363636364,0.696969697
+IS6146,India,South Asia,0.166666667,0.363636364,0.53030303
+IS6150,India,South Asia,0.166666667,0.090909091,0.257575758
+IS6152,India,South Asia,0,0,0
+IS6154,India,South Asia,0.166666667,0.181818182,0.348484848
+IS6165,India,South Asia,0.166666667,0.363636364,0.53030303
+IS6169,India,South Asia,0.166666667,0,0.166666667
+IS6191,India,South Asia,0,0,0
+IS6192,India,South Asia,0,0,0
+IS6193,India,South Asia,0.166666667,0.090909091,0.257575758
+IS6203,India,South Asia,0.166666667,0.363636364,0.53030303
+IS6206,India,South Asia,0.166666667,0.363636364,0.53030303
+IS6208,India,South Asia,0.166666667,0.363636364,0.53030303
+IS6210,India,South Asia,0.166666667,0.454545455,0.621212121
+IS6215,India,South Asia,0.166666667,0,0.166666667
+IS6222,India,South Asia,0.166666667,0.454545455,0.621212121
+IS6227,India,South Asia,0.166666667,0.181818182,0.348484848
+IS6230,India,South Asia,0,0,0
+IS6236,India,South Asia,0,0,0
+IS6243,India,South Asia,0,0,0
+IS6245,India,South Asia,0,0,0
+IS6249,India,South Asia,0,0,0
+IS6255,India,South Asia,0,0,0
+IS6259,India,South Asia,0,0,0
+IS6266,India,South Asia,0,0,0
+IS6269,India,South Asia,0,0,0
+IS6276,India,South Asia,0,0,0
+IS6282,India,South Asia,0,0.090909091,0.090909091
+IS6294,India,South Asia,0,0,0
+IS6321,India,South Asia,0.166666667,0.454545455,0.621212121
+IS6329,India,South Asia,0,0,0
+IS6331,India,South Asia,0,0,0
+IS6351,India,South Asia,0,0,0
+IS6354,India,South Asia,0,0,0
+IS6413,India,South Asia,0,0,0
+IS6421,India,South Asia,0.166666667,0,0.166666667
+IS7069,Sudan,East Africa,0,0,0
+IS7277,Nigeria,West Africa,0,0,0
+IS7304,Nigeria,West Africa,0,0,0
+IS7305,Nigeria,West Africa,0.166666667,0,0.166666667
+IS7310,Nigeria,West Africa,0.166666667,0,0.166666667
+IS7312,Nigeria,West Africa,0,0,0
+IS7314,Nigeria,West Africa,0,0,0
+IS7343,Nigeria,West Africa,0,0.454545455,0.454545455
+IS7348,Nigeria,West Africa,0,0,0
+IS7360,Nigeria,West Africa,0,0,0
+IS7367,Nigeria,West Africa,0,0.181818182,0.181818182
+IS7386,Nigeria,West Africa,0,0,0
+IS7389,Nigeria,West Africa,0,0,0
+IS7403,Nigeria,West Africa,0,0.545454545,0.545454545
+IS7408,Nigeria,West Africa,0,0,0
+IS7411,Nigeria,West Africa,0,0.181818182,0.181818182
+IS7418,Nigeria,West Africa,0,0,0
+IS7419,Nigeria,West Africa,0,0,0
+IS7424,Nigeria,West Africa,0,0,0
+IS7428,Nigeria,West Africa,0,0.090909091,0.090909091
+IS7447,Nigeria,West Africa,0,0.363636364,0.363636364
+IS7463,Nigeria,West Africa,0,0,0
+IS7469,Nigeria,West Africa,0,0,0
+IS7480,Nigeria,West Africa,0,0.090909091,0.090909091
+IS7486,Nigeria,West Africa,0,0.363636364,0.363636364
+IS7490,Nigeria,West Africa,0,0,0
+IS7492,Nigeria,West Africa,0,0,0
+IS7506,Nigeria,West Africa,0,0.090909091,0.090909091
+IS7508,Nigeria,West Africa,0,0,0
+IS7535,Nigeria,West Africa,0,0,0
+IS7620,Nigeria,West Africa,0,0,0
+IS7643,Nigeria,West Africa,0,0,0
+IS7679,Nigeria,West Africa,0,0.545454545,0.545454545
+IS7689,Nigeria,West Africa,0,0,0
+IS7696,Nigeria,West Africa,0,0,0
+IS7702,Nigeria,West Africa,0,0,0
+IS7704,Nigeria,West Africa,0,0,0
+IS7722,Nigeria,West Africa,0,0,0
+IS7763,Nigeria,West Africa,0,0,0
+IS7773,Nigeria,West Africa,0,0,0
+IS7792,Nigeria,West Africa,0,0.454545455,0.454545455
+IS7802,Nigeria,West Africa,0,0,0
+IS7806,Nigeria,West Africa,0,0,0
+IS7812,Nigeria,West Africa,0,0,0
+IS7825,Nigeria,West Africa,0,0,0
+IS7834,Nigeria,West Africa,0,0,0
+IS7835,Nigeria,West Africa,0,0,0
+IS7836,Nigeria,West Africa,0,0.272727273,0.272727273
+IS7843,Nigeria,West Africa,0,0.363636364,0.363636364
+IS7845,Nigeria,West Africa,0,0,0
+IS7849,Nigeria,West Africa,0,0,0
+IS7861,Nigeria,West Africa,0,0,0
+IS7887,Nigeria,West Africa,0,0.545454545,0.545454545
+IS7889,Nigeria,West Africa,0,0,0
+IS7892,Nigeria,West Africa,0,0,0
+IS7920,Nigeria,West Africa,0,0.272727273,0.272727273
+IS7923,Nigeria,West Africa,0,0.090909091,0.090909091
+IS7948,Nigeria,West Africa,0,0,0
+IS7957,Nigeria,West Africa,0,0.636363636,0.636363636
+IS7958,Nigeria,West Africa,0,0,0
+IS7987,Nigeria,West Africa,0,0.727272727,0.727272727
+IS7995,Nigeria,West Africa,0,0,0
+IS8310,India,South Asia,0,0.090909091,0.090909091
+IS8777,Uganda,East Africa,0.333333333,0.090909091,0.424242424
+IS8861,Kenya,East Africa,0.333333333,0,0.333333333
+IS8916,Uganda,East Africa,0.5,0,0.5
+IS9108,Kenya,East Africa,0.333333333,0,0.333333333
+IS9113,Kenya,East Africa,0.333333333,0,0.333333333
+IS9115,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+IS9168,Kenya,East Africa,0,0,0
+IS9597,Niger,West Africa,0.166666667,0,0.166666667
+IS9713,Sudan,East Africa,0,0,0
+IS9720,Sudan,East Africa,0,0.090909091,0.090909091
+IS9745,Sudan,East Africa,0,0.363636364,0.363636364
+IS9830,Sudan,East Africa,0,0,0
+IS9883,Sudan,East Africa,0,0,0
+IS9911,Sudan,East Africa,0,0,0
+PI151198,Ethiopia,East Africa,0,0,0
+PI155541,Zambia,East Africa,0,0,0
+PI213900,Kenya,East Africa,0,0,0
+PI267621,Ethiopia,East Africa,0,0,0
+PI285039,Nigeria,West Africa,0,0,0
+PI285042,Nigeria,West Africa,0,0,0
+PI329252,Ethiopia,East Africa,0,0,0
+PI329256,Eritrea,East Africa,0,0,0
+PI329285,Ethiopia,East Africa,0,0,0
+PI329286,Ethiopia,East Africa,0,0,0
+PI329299,Ethiopia,East Africa,0,0,0
+PI329300,Ethiopia,East Africa,0,0,0
+PI329301,Ethiopia,East Africa,0,0,0
+PI329310,Ethiopia,East Africa,0,0,0
+PI329311,Ethiopia,East Africa,0,0,0
+PI329312,Ethiopia,East Africa,0,0,0
+PI329316,Ethiopia,East Africa,0,0,0
+PI329318,Ethiopia,East Africa,0,0,0
+PI329319,Ethiopia,East Africa,0,0,0
+PI329320,Ethiopia,East Africa,0,0,0
+PI329325,Ethiopia,East Africa,0,0,0
+PI329326,Ethiopia,East Africa,0,0,0
+PI329333,Ethiopia,East Africa,0,0,0
+PI329338,Ethiopia,East Africa,0,0,0
+PI329351,Ethiopia,East Africa,0,0,0
+PI329394,Ethiopia,East Africa,0,0,0
+PI329403,Ethiopia,East Africa,0,0,0
+PI329442,Eritrea,East Africa,0,0,0
+PI329465,Ethiopia,East Africa,0,0,0
+PI329466,Ethiopia,East Africa,0,0,0
+PI329470,Ethiopia,East Africa,0,0,0
+PI329471,Ethiopia,East Africa,0,0,0
+PI329473,Ethiopia,East Africa,0,0,0
+PI329475,Ethiopia,East Africa,0,0,0
+PI329476,Ethiopia,East Africa,0,0,0
+PI329477,Ethiopia,East Africa,0,0,0
+PI329478,Ethiopia,East Africa,0,0,0
+PI329480,Ethiopia,East Africa,0,0,0
+PI329501,Ethiopia,East Africa,0,0,0
+PI329504,Ethiopia,East Africa,0,0,0
+PI329506,Ethiopia,East Africa,0,0,0
+PI329510,Ethiopia,East Africa,0,0,0
+PI329511,Ethiopia,East Africa,0,0,0
+PI329517,Ethiopia,East Africa,0,0,0
+PI329518,Ethiopia,East Africa,0,0,0
+PI329519,Ethiopia,East Africa,0,0,0
+PI329540,Ethiopia,East Africa,0,0,0
+PI329541,Ethiopia,East Africa,0,0,0
+PI329545,Ethiopia,East Africa,0,0,0
+PI329546,Ethiopia,East Africa,0,0,0
+PI329550,Ethiopia,East Africa,0,0,0
+PI329551,Ethiopia,East Africa,0,0,0
+PI329554,Ethiopia,East Africa,0,0,0
+PI329556,Ethiopia,East Africa,0,0,0
+PI329569,Ethiopia,East Africa,0,0,0
+PI329570,Ethiopia,East Africa,0,0,0
+PI329572,Ethiopia,East Africa,0,0,0
+PI329583,Ethiopia,East Africa,0,0,0
+PI329584,Ethiopia,East Africa,0,0,0
+PI329585,Ethiopia,East Africa,0,0,0
+PI329605,Ethiopia,East Africa,0,0,0
+PI329606,Ethiopia,East Africa,0,0,0
+PI329614,Ethiopia,East Africa,0,0,0
+PI329615,Ethiopia,East Africa,0,0,0
+PI329617,Ethiopia,East Africa,0,0,0
+PI329618,Ethiopia,East Africa,0,0,0
+PI329632,Ethiopia,East Africa,0,0,0
+PI329644,Ethiopia,East Africa,0,0,0
+PI329645,Ethiopia,East Africa,0,0,0
+PI329646,Ethiopia,East Africa,0,0,0
+PI329665,Ethiopia,East Africa,0,0,0
+PI329673,Ethiopia,East Africa,0,0,0
+PI329699,Ethiopia,East Africa,0,0.545454545,0.545454545
+PI329700,Ethiopia,East Africa,0,0.272727273,0.272727273
+PI329702,Ethiopia,East Africa,0,0,0
+PI329704,Ethiopia,East Africa,0,0,0
+PI329710,Ethiopia,East Africa,0,0,0
+PI329711,Ethiopia,East Africa,0,0,0
+PI329813,Ethiopia,East Africa,0,0,0
+PI329814,Ethiopia,East Africa,0,0,0
+PI329841,Ethiopia,East Africa,0,0,0
+PI329843,Ethiopia,East Africa,0,0,0
+PI329848,Ethiopia,East Africa,0,0,0
+PI329849,Ethiopia,East Africa,0,0,0
+PI329864,Ethiopia,East Africa,0,0,0
+PI329865,Ethiopia,East Africa,0,0,0
+PI329920,Ethiopia,East Africa,0,0,0
+PI330167,Ethiopia,East Africa,0,0,0
+PI330168,Ethiopia,East Africa,0,0,0
+PI330169,Ethiopia,East Africa,0,0,0
+PI330170,Ethiopia,East Africa,0,0,0
+PI330181,Ethiopia,East Africa,0,0,0
+PI330182,Ethiopia,East Africa,0,0,0
+PI330184,Ethiopia,East Africa,0,0,0
+PI330185,Ethiopia,East Africa,0,0,0
+PI330192,Ethiopia,East Africa,0,0,0
+PI330195,Ethiopia,East Africa,0,0,0
+PI330196,Ethiopia,East Africa,0,0,0
+PI330199,Ethiopia,East Africa,0,0,0
+PI330271,Ethiopia,East Africa,0,0,0
+PI330796,Ethiopia,East Africa,0,0,0
+PI330798,Ethiopia,East Africa,0,0,0
+PI330803,Ethiopia,East Africa,0,0,0
+PI330804,Ethiopia,East Africa,0,0,0
+PI330807,Ethiopia,East Africa,0,0,0
+PI330828,Ethiopia,East Africa,0,0,0
+PI330833,Ethiopia,East Africa,0,0,0
+PI330834,Ethiopia,East Africa,0,0,0
+PI330835,Ethiopia,East Africa,0,0,0
+PI330838,Ethiopia,East Africa,0,0,0
+PI330847,Ethiopia,East Africa,0,0,0
+PI330851,Ethiopia,East Africa,0,0,0
+PI330857,Ethiopia,East Africa,0,0,0
+PI330858,Ethiopia,East Africa,0,0,0
+PI330867,Ethiopia,East Africa,0,0,0
+PI337674,Ethiopia,East Africa,0,0,0
+PI337676,Ethiopia,East Africa,0,0,0
+PI337678,Ethiopia,East Africa,0,0,0
+PI337680,Ethiopia,East Africa,0,0,0
+PI337684,Ethiopia,East Africa,0,0,0
+PI337685,Ethiopia,East Africa,0,0,0
+PI337688,Ethiopia,East Africa,0,0,0
+PI337689,Ethiopia,East Africa,0,0,0
+PI510907,Botswana,South Africa,0,0,0
+PI510910,Botswana,South Africa,0,0,0
+PI510911,Botswana,South Africa,0,0,0
+PI510925,Botswana,South Africa,0,0,0
+PI510926,Botswana,South Africa,0,0,0
+PI510931,Botswana,South Africa,0,0,0
+PI510932,Botswana,South Africa,0,0,0
+PI510958,Botswana,South Africa,0,0,0
+PI510959,Botswana,South Africa,0.166666667,0,0.166666667
+PI510966,Botswana,South Africa,0,0,0
+PI510967,Botswana,South Africa,0,0,0
+PI510968,Botswana,South Africa,0,0,0
+PI510969,Botswana,South Africa,0,0,0
+PI510979,Botswana,South Africa,0,0,0
+PI510990,Botswana,South Africa,0,0,0
+PI510991,Botswana,South Africa,0,0,0
+PI511008,Botswana,South Africa,0,0,0
+PI511009,Botswana,South Africa,0,0,0
+PI514456,Senegal,West Africa,0,0,0
+PI514610,Senegal,West Africa,0,0,0
+PI514617,Senegal,West Africa,0,0,0
+PI521833,Malawi,East Africa,0.166666667,0,0.166666667
+PI533762,Sudan,East Africa,0,0,0
+PI533769,Sudan,East Africa,0,0,0
+PI533785,Nigeria,West Africa,0,0,0
+PI533789,Sudan,East Africa,0,0,0
+PI533792,Ethiopia,East Africa,0,0,0
+PI533794,Ethiopia,East Africa,0,0.272727273,0.272727273
+PI533800,Ethiopia,East Africa,0,0.272727273,0.272727273
+PI533810,India,South Asia,0,0,0
+PI533839,Nigeria,West Africa,0.166666667,0,0.166666667
+PI533842,India,South Asia,0,0,0
+PI533856,India,South Asia,0,0,0
+PI533876,Nigeria,West Africa,0,0,0
+PI533877,Nigeria,West Africa,0,0,0
+PI533882,Nigeria,West Africa,0,0,0
+PI533910,Sudan,East Africa,0,0,0
+PI533911,Sudan,East Africa,0,0,0
+PI533912,Sudan,East Africa,0,0,0
+PI533985,Sudan,East Africa,0,0,0
+PI533986,Sudan,East Africa,0,0,0
+PI533987,Sudan,East Africa,0,0,0
+PI533991,South Sudan,East Africa,0,0,0
+PI533996,Sudan,East Africa,0,0,0
+PI534009,India,South Asia,0,0,0
+PI534021,India,South Asia,0,0,0
+PI534028,India,South Asia,0,0,0
+PI534070,Nigeria,West Africa,0,0,0
+PI534075,Nigeria,West Africa,0,0,0
+PI534079,Nigeria,West Africa,0,0,0
+PI534088,Nigeria,West Africa,0,0,0
+PI534092,Nigeria,West Africa,0,0,0
+PI534115,Ethiopia,East Africa,0,0,0
+PI534116,Ethiopia,East Africa,0,0,0
+PI534123,Ethiopia,East Africa,0,0,0
+PI534124,Ethiopia,East Africa,0,0,0
+PI534127,Ethiopia,East Africa,0,0,0
+PI534128,Ethiopia,East Africa,0,0,0
+PI534133,Ethiopia,East Africa,0,0,0
+PI534135,Ethiopia,East Africa,0,0,0
+PI534148,Ethiopia,East Africa,0,0,0
+PI534155,Ethiopia,East Africa,0,0,0
+PI534157,Ethiopia,East Africa,0,0,0
+PI562989,Nigeria,West Africa,0,0,0
+PI563009,Nigeria,West Africa,0,0,0
+PI563151,Kenya,East Africa,0.333333333,0.363636364,0.696969697
+PI563153,Kenya,East Africa,0,0,0
+PI563154,Kenya,East Africa,0,0,0
+PI563155,Kenya,East Africa,0.333333333,0,0.333333333
+PI563156,Kenya,East Africa,0.166666667,0,0.166666667
+PI563157,Kenya,East Africa,0.333333333,0,0.333333333
+PI563163,Kenya,East Africa,0,0,0
+PI563194,Kenya,East Africa,0,0,0
+PI563196,Kenya,East Africa,0.333333333,0,0.333333333
+PI563198,Kenya,East Africa,0.333333333,0.363636364,0.696969697
+PI563199,Kenya,East Africa,0.333333333,0,0.333333333
+PI563200,Kenya,East Africa,0,0,0
+PI563207,Kenya,East Africa,0,0,0
+PI563208,Kenya,East Africa,0,0,0
+PI563209,Kenya,East Africa,0.333333333,0,0.333333333
+PI563219,Uganda,East Africa,0,0,0
+PI563289,South Africa,South Africa,0,0,0
+PI563334,Burkina Faso,West Africa,0,0.090909091,0.090909091
+PI563338,Burkina Faso,West Africa,0,0.272727273,0.272727273
+PI563343,Burkina Faso,West Africa,0,0,0
+PI563348,Burkina Faso,West Africa,0,0,0
+PI563350,Burkina Faso,West Africa,0.166666667,0.363636364,0.53030303
+PI563359,Burkina Faso,West Africa,0,0,0
+PI563364,Burkina Faso,West Africa,0.166666667,0,0.166666667
+PI563366,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI563377,Sudan,East Africa,0,0,0
+PI563378,Sudan,East Africa,0,0,0
+PI563482,Senegal,West Africa,0,0.272727273,0.272727273
+PI563483,Senegal,West Africa,0,0,0
+PI563484,Senegal,West Africa,0,0,0
+PI563485,Senegal,West Africa,0,0,0
+PI563486,Senegal,West Africa,0,0,0
+PI563487,Mali,West Africa,0.166666667,0.090909091,0.257575758
+PI563489,Nigeria,West Africa,0,0,0
+PI563490,Nigeria,West Africa,0,0,0
+PI563491,Nigeria,West Africa,0,0,0
+PI563492,Nigeria,West Africa,0,0,0
+PI563497,Sudan,East Africa,0,0,0
+PI563513,Sudan,East Africa,0,0,0
+PI563515,Mali,West Africa,0,0,0
+PI563516,Mali,West Africa,0,0,0
+PI569012,Sudan,East Africa,0,0,0
+PI569803,Sudan,East Africa,0,0,0
+PI569804,Sudan,East Africa,0,0,0
+PI569805,Sudan,East Africa,0,0,0
+PI569819,Sudan,East Africa,0,0,0
+PI569833,Sudan,East Africa,0,0,0
+PI569834,Sudan,East Africa,0,0,0
+PI569847,Sudan,East Africa,0,0,0
+PI569860,Sudan,East Africa,0,0,0
+PI569869,Sudan,East Africa,0,0,0
+PI569870,Sudan,East Africa,0,0,0
+PI569873,Sudan,East Africa,0,0,0
+PI569875,Sudan,East Africa,0,0.090909091,0.090909091
+PI569876,Sudan,East Africa,0,0,0
+PI569886,Sudan,East Africa,0,0,0
+PI570119,Sudan,East Africa,0,0,0
+PI570120,Sudan,East Africa,0,0,0
+PI570122,Sudan,East Africa,0,0,0
+PI570123,Sudan,East Africa,0,0,0
+PI570124,Sudan,East Africa,0,0,0
+PI570125,Sudan,East Africa,0,0.272727273,0.272727273
+PI570126,Sudan,East Africa,0,0,0
+PI570127,South Sudan,East Africa,0,0,0
+PI570130,Sudan,East Africa,0,0,0
+PI570136,Sudan,East Africa,0,0,0
+PI570137,Sudan,East Africa,0,0,0
+PI570139,Sudan,East Africa,0,0,0
+PI570145,Sudan,East Africa,0,0.272727273,0.272727273
+PI570146,Sudan,East Africa,0,0,0
+PI570149,South Sudan,East Africa,0,0,0
+PI570154,Sudan,East Africa,0,0.181818182,0.181818182
+PI570155,Sudan,East Africa,0,0,0
+PI570157,South Sudan,East Africa,0,0,0
+PI570158,Sudan,East Africa,0,0,0
+PI570159,Sudan,East Africa,0,0,0
+PI570160,Sudan,East Africa,0,0,0
+PI570162,Sudan,East Africa,0,0,0
+PI570163,Sudan,East Africa,0,0,0
+PI570164,Sudan,East Africa,0,0,0
+PI570166,Sudan,East Africa,0,0,0
+PI570168,Sudan,East Africa,0,0.454545455,0.454545455
+PI570171,Sudan,East Africa,0,0,0
+PI570174,Sudan,East Africa,0,0,0
+PI570176,Sudan,East Africa,0,0.454545455,0.454545455
+PI570189,South Sudan,East Africa,0,0,0
+PI570190,South Sudan,East Africa,0,0.090909091,0.090909091
+PI570191,South Sudan,East Africa,0,0,0
+PI570218,Sudan,East Africa,0,0,0
+PI570219,Sudan,East Africa,0,0,0
+PI570220,Sudan,East Africa,0,0,0
+PI570228,Sudan,East Africa,0,0,0
+PI570229,Sudan,East Africa,0,0,0
+PI570233,Sudan,East Africa,0,0,0
+PI570234,Sudan,East Africa,0,0,0
+PI570237,Sudan,East Africa,0.166666667,0,0.166666667
+PI570244,Sudan,East Africa,0,0,0
+PI570248,Sudan,East Africa,0,0,0
+PI570249,Sudan,East Africa,0,0,0
+PI570252,Sudan,East Africa,0,0,0
+PI570254,South Sudan,East Africa,0,0,0
+PI570255,Sudan,East Africa,0,0,0
+PI570256,Sudan,East Africa,0,0,0
+PI570260,Sudan,East Africa,0,0,0
+PI570261,Sudan,East Africa,0,0,0
+PI570262,Sudan,East Africa,0,0,0
+PI570271,Sudan,East Africa,0.333333333,0,0.333333333
+PI570278,Sudan,East Africa,0,0,0
+PI570279,Sudan,East Africa,0,0,0
+PI570284,Sudan,East Africa,0,0,0
+PI570288,Sudan,East Africa,0,0,0
+PI570289,Sudan,East Africa,0,0,0
+PI570292,Sudan,East Africa,0,0,0
+PI570294,Sudan,East Africa,0,0,0
+PI570295,Sudan,East Africa,0,0,0
+PI570296,Sudan,East Africa,0,0,0
+PI570393,South Sudan,East Africa,0,0.454545455,0.454545455
+PI570494,South Sudan,East Africa,0,0,0
+PI570498,South Sudan,East Africa,0,0,0
+PI570501,South Sudan,East Africa,0,0,0
+PI570503,Sudan,East Africa,0,0,0
+PI570504,South Sudan,East Africa,0,0,0
+PI570505,South Sudan,East Africa,0,0,0
+PI570511,Sudan,East Africa,0,0,0
+PI570512,Sudan,East Africa,0,0,0
+PI570518,South Sudan,East Africa,0,0,0
+PI570523,South Sudan,East Africa,0,0,0
+PI570524,Sudan,East Africa,0,0,0
+PI570528,Sudan,East Africa,0,0,0
+PI570539,South Sudan,East Africa,0.166666667,0,0.166666667
+PI570546,Sudan,East Africa,0.166666667,0,0.166666667
+PI570549,Sudan,East Africa,0.166666667,0,0.166666667
+PI570550,Sudan,East Africa,0,0,0
+PI570554,Sudan,East Africa,0,0,0
+PI570570,South Sudan,East Africa,0,0,0
+PI570571,South Sudan,East Africa,0,0,0
+PI570575,South Sudan,East Africa,0,0,0
+PI570576,South Sudan,East Africa,0,0,0
+PI570584,South Sudan,East Africa,0,0,0
+PI570588,South Sudan,East Africa,0,0,0
+PI570603,Sudan,East Africa,0,0,0
+PI570604,Sudan,East Africa,0,0,0
+PI570917,Sudan,East Africa,0,0,0
+PI570918,Sudan,East Africa,0,0,0
+PI571246,Sudan,East Africa,0,0,0
+PI571253,Sudan,East Africa,0,0,0
+PI571256,South Sudan,East Africa,0,0,0
+PI571261,South Sudan,East Africa,0,0,0
+PI571262,Sudan,East Africa,0,0,0
+PI571273,South Sudan,East Africa,0,0,0
+PI571275,Sudan,East Africa,0,0.454545455,0.454545455
+PI571299,Sudan,East Africa,0,0,0
+PI571302,Sudan,East Africa,0,0,0
+PI571370,Sudan,East Africa,0,0,0
+PI571376,South Sudan,East Africa,0,0,0
+PI576352,Botswana,South Africa,0,0,0
+PI576359,India,South Asia,0,0,0
+PI576364,India,South Asia,0,0,0
+PI576366,India,South Asia,0,0,0
+PI576375,Ethiopia,East Africa,0,0,0
+PI576376,Ethiopia,East Africa,0,0,0
+PI576380,Ethiopia,East Africa,0,0,0
+PI576381,Ethiopia,East Africa,0,0,0
+PI576390,India,South Asia,0,0,0
+PI576399,Sudan,East Africa,0.166666667,0,0.166666667
+PI576401,India,South Asia,0.333333333,0.272727273,0.606060606
+PI576425,Ethiopia,East Africa,0,0,0
+PI576426,Ethiopia,East Africa,0,0,0
+PI576428,Ethiopia,East Africa,0,0,0
+PI576435,India,South Asia,0,0,0
+PI585379,Ethiopia,East Africa,0,0,0
+PI585394,Nigeria,West Africa,0,0,0
+PI585405,Nigeria,West Africa,0,0,0
+PI585406,Nigeria,West Africa,0,0,0
+PI585411,Nigeria,West Africa,0,0,0
+PI585412,Nigeria,West Africa,0,0,0
+PI585413,Nigeria,West Africa,0,0.454545455,0.454545455
+PI585414,Nigeria,West Africa,0,0,0
+PI585415,Nigeria,West Africa,0,0,0
+PI585416,Nigeria,West Africa,0,0,0
+PI585417,Nigeria,West Africa,0,0,0
+PI585418,Nigeria,West Africa,0,0,0
+PI585423,Nigeria,West Africa,0,0,0
+PI585448,Ghana,West Africa,0,0,0
+PI585449,Ghana,West Africa,0,0,0
+PI585452,Ghana,West Africa,0,0.090909091,0.090909091
+PI585453,Ghana,West Africa,0,0,0
+PI585454,Ghana,West Africa,0,0,0
+PI585455,Ghana,West Africa,0,0,0
+PI585456,Ghana,West Africa,0,0,0
+PI585457,Ghana,West Africa,0,0,0
+PI585461,Ghana,West Africa,0,0,0
+PI585467,Ghana,West Africa,0,0,0
+PI585468,Ghana,West Africa,0,0,0
+PI585469,Ghana,West Africa,0,0,0
+PI585470,Ghana,West Africa,0,0,0
+PI585471,Ghana,West Africa,0,0,0
+PI585472,Ghana,West Africa,0,0,0
+PI585572,Burundi,East Africa,0,0,0
+PI585573,Burundi,East Africa,0,0,0
+PI585574,Burundi,East Africa,0,0,0
+PI585576,Burundi,East Africa,0.166666667,0,0.166666667
+PI585577,Burundi,East Africa,0,0,0
+PI585578,Burundi,East Africa,0,0,0
+PI585579,Burundi,East Africa,0,0,0
+PI585580,Burundi,East Africa,0,0,0
+PI585581,Burundi,East Africa,0,0,0
+PI585582,Burundi,East Africa,0,0,0
+PI585583,Burundi,East Africa,0,0,0
+PI585590,Rwanda,East Africa,0,0,0
+PI585595,Rwanda,East Africa,0,0,0
+PI585596,Rwanda,East Africa,0,0,0
+PI585600,Rwanda,East Africa,0,0,0
+PI585602,Rwanda,East Africa,0,0,0
+PI585607,Rwanda,East Africa,0,0,0
+PI585608,Rwanda,East Africa,0,0,0
+PI585609,Rwanda,East Africa,0,0,0
+PI585971,Togo,West Africa,0,0,0
+PI585981,Benin,West Africa,0,0,0
+PI585984,Benin,West Africa,0,0,0
+PI585985,Benin,West Africa,0,0,0
+PI585987,Benin,West Africa,0,0,0
+PI585989,Benin,West Africa,0,0,0
+PI585991,Benin,West Africa,0,0,0
+PI585992,Benin,West Africa,0,0,0
+PI586000,Benin,West Africa,0,0,0
+PI586008,Benin,West Africa,0,0,0
+PI586028,Zambia,East Africa,0,0,0
+PI586032,Zambia,East Africa,0,0,0
+PI586033,Zambia,East Africa,0,0,0
+PI586034,Zambia,East Africa,0,0,0
+PI586035,Zambia,East Africa,0,0,0
+PI586036,Zambia,East Africa,0,0,0
+PI586037,Zambia,East Africa,0,0,0
+PI586038,Zambia,East Africa,0,0,0
+PI586039,Zambia,East Africa,0,0,0
+PI586040,Zambia,East Africa,0,0,0
+PI586041,Zambia,East Africa,0,0,0
+PI586042,Zambia,East Africa,0,0,0
+PI586052,Malawi,East Africa,0,0,0
+PI586054,Malawi,East Africa,0,0,0
+PI586107,Burkina Faso,West Africa,0,0,0
+PI586108,Burkina Faso,West Africa,0,0.090909091,0.090909091
+PI586109,Burkina Faso,West Africa,0,0,0
+PI586110,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586111,Burkina Faso,West Africa,0,0,0
+PI586112,Burkina Faso,West Africa,0,0,0
+PI586113,Burkina Faso,West Africa,0,0,0
+PI586114,Burkina Faso,West Africa,0,0,0
+PI586115,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586117,Burkina Faso,West Africa,0,0,0
+PI586118,Burkina Faso,West Africa,0,0.272727273,0.272727273
+PI586119,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586120,Burkina Faso,West Africa,0,0,0
+PI586123,Burkina Faso,West Africa,0,0,0
+PI586124,Burkina Faso,West Africa,0,0,0
+PI586128,Burkina Faso,West Africa,0,0,0
+PI586137,Burkina Faso,West Africa,0,0.181818182,0.181818182
+PI586141,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586142,Burkina Faso,West Africa,0,0,0
+PI586147,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586148,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586150,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586151,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586153,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586154,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586155,Burkina Faso,West Africa,0,0.545454545,0.545454545
+PI586156,Burkina Faso,West Africa,0,0,0
+PI586157,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586158,Burkina Faso,West Africa,0,0.090909091,0.090909091
+PI586159,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586160,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586161,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586162,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586163,Burkina Faso,West Africa,0,0,0
+PI586164,Burkina Faso,West Africa,0,0.181818182,0.181818182
+PI586165,Burkina Faso,West Africa,0,0.090909091,0.090909091
+PI586166,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586167,Burkina Faso,West Africa,0,0,0
+PI586168,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586169,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586172,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586173,Burkina Faso,West Africa,0,0.636363636,0.636363636
+PI586174,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586175,Burkina Faso,West Africa,0,0.272727273,0.272727273
+PI586176,Burkina Faso,West Africa,0,0,0
+PI586178,Burkina Faso,West Africa,0,0,0
+PI586179,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586181,Burkina Faso,West Africa,0,0,0
+PI586182,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586183,Burkina Faso,West Africa,0,0.454545455,0.454545455
+PI586184,Burkina Faso,West Africa,0,0.545454545,0.545454545
+PI586185,Burkina Faso,West Africa,0,0,0
+PI586201,Burkina Faso,West Africa,0.166666667,0.727272727,0.893939394
+PI586205,Burkina Faso,West Africa,0,0.636363636,0.636363636
+PI586239,Burkina Faso,West Africa,0,0,0
+PI586259,Burkina Faso,West Africa,0,0.090909091,0.090909091
+PI586272,Burkina Faso,West Africa,0,0,0
+PI586356,Burkina Faso,West Africa,0,0,0
+PI586357,Burkina Faso,West Africa,0,0.545454545,0.545454545
+PI586359,Burkina Faso,West Africa,0,0.545454545,0.545454545
+PI586360,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586361,Burkina Faso,West Africa,0,0.272727273,0.272727273
+PI586362,Burkina Faso,West Africa,0,0,0
+PI586363,Burkina Faso,West Africa,0,0.090909091,0.090909091
+PI586364,Burkina Faso,West Africa,0,0.181818182,0.181818182
+PI586365,Burkina Faso,West Africa,0,0.272727273,0.272727273
+PI586366,Burkina Faso,West Africa,0,0,0
+PI586367,Burkina Faso,West Africa,0,0.090909091,0.090909091
+PI586368,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586369,Burkina Faso,West Africa,0,0.363636364,0.363636364
+PI586370,Burkina Faso,West Africa,0,0,0
+PI586371,Burkina Faso,West Africa,0,0,0
+PI586374,Burkina Faso,West Africa,0,0,0
+PI586377,Cameroon,Central Africa,0,0,0
+PI586378,Cameroon,Central Africa,0,0,0
+PI586387,Cameroon,Central Africa,0,0,0
+PI586388,Cameroon,Central Africa,0,0,0
+PI586394,Cameroon,Central Africa,0,0,0
+PI586403,Cameroon,Central Africa,0,0,0
+PI586404,Cameroon,Central Africa,0,0,0
+PI586405,Cameroon,Central Africa,0,0,0
+PI586464,South Africa,South Africa,0,0,0
+PI586465,South Africa,South Africa,0,0,0
+PI586466,South Africa,South Africa,0,0,0
+PI586467,South Africa,South Africa,0,0,0
+PI586470,South Africa,South Africa,0,0,0
+PI586471,South Africa,South Africa,0,0,0
+PI586472,South Africa,South Africa,0,0,0
+PI586473,South Africa,South Africa,0,0,0
+PI586476,South Africa,South Africa,0,0,0
+PI586477,South Africa,South Africa,0.166666667,0,0.166666667
+PI586479,South Africa,South Africa,0,0,0
+PI586480,South Africa,South Africa,0,0,0
+PI586481,South Africa,South Africa,0,0,0
+PI586482,South Africa,South Africa,0,0,0
+PI586483,South Africa,South Africa,0,0,0
+PI586493,South Africa,South Africa,0.166666667,0,0.166666667
+PI586498,South Africa,South Africa,0,0,0
+PI586499,South Africa,South Africa,0,0,0
+PI586500,South Africa,South Africa,0,0,0
+PI586501,South Africa,South Africa,0,0,0
+PI586503,South Africa,South Africa,0,0,0
+PI586510,South Africa,South Africa,0,0,0
+PI586511,South Africa,South Africa,0,0,0
+PI595699,India,South Asia,0,0,0
+PI597946,Kenya,East Africa,0,0,0
+PI597949,India,South Asia,0,0,0
+PI597950,India,South Asia,0,0,0
+PI597952,Sudan,East Africa,0,0,0
+PI597953,Nigeria,West Africa,0,0,0
+PI597954,Nigeria,West Africa,0,0,0
+PI597957,Eritrea,East Africa,0,0,0
+PI597964,Ethiopia,East Africa,0,0,0
+PI608862,Mali,West Africa,0,0,0
+PI608863,Mali,West Africa,0,0,0
+PI608864,Mali,West Africa,0,0,0
+PI608865,Mali,West Africa,0,0,0
+PI609094,Mali,West Africa,0,0,0
+PI609200,Mali,West Africa,0.166666667,0,0.166666667
+PI609918,Mali,West Africa,0.166666667,0,0.166666667
+PI609919,Mali,West Africa,0.166666667,0,0.166666667
+PI610034,Mali,West Africa,0,0,0
+PI612776,Mali,West Africa,0,0,0
+PI612777,Mali,West Africa,0,0,0
+PI619639,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI619640,United Republic of Tanzania,East Africa,0,0,0
+PI619641,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI619642,United Republic of Tanzania,East Africa,0,0,0
+PI619643,United Republic of Tanzania,East Africa,0,0,0
+PI619688,Uganda,East Africa,0,0,0
+PI619689,Uganda,East Africa,0,0,0
+PI619695,Uganda,East Africa,0,0,0
+PI619696,Uganda,East Africa,0,0,0
+PI619697,Uganda,East Africa,0,0,0
+PI619698,Uganda,East Africa,0.333333333,0,0.333333333
+PI619701,Uganda,East Africa,0,0,0
+PI619702,Uganda,East Africa,0,0,0
+PI619713,Uganda,East Africa,0.5,0,0.5
+PI619716,Uganda,East Africa,0,0,0
+PI619719,Uganda,East Africa,0.166666667,0,0.166666667
+PI619720,Uganda,East Africa,0.5,0,0.5
+PI619721,Uganda,East Africa,0.5,0,0.5
+PI619733,Uganda,East Africa,0,0,0
+PI619734,Uganda,East Africa,0.5,0,0.5
+PI619735,Uganda,East Africa,0.166666667,0.090909091,0.257575758
+PI619765,Uganda,East Africa,0.166666667,0,0.166666667
+PI619773,Uganda,East Africa,0,0,0
+PI619807,Uganda,East Africa,0,0,0
+PI619813,Uganda,East Africa,0,0,0
+PI619816,Uganda,East Africa,0,0,0
+PI619829,Uganda,East Africa,0.5,0.090909091,0.590909091
+PI619830,Uganda,East Africa,0,0,0
+PI619838,Uganda,East Africa,0,0,0
+PI619860,Uganda,East Africa,0.333333333,0,0.333333333
+PI619863,Uganda,East Africa,0.333333333,0,0.333333333
+PI619879,Uganda,East Africa,0,0,0
+PI619890,Uganda,East Africa,0,0,0
+PI619896,Uganda,East Africa,0.5,0,0.5
+PI619897,Uganda,East Africa,0.333333333,0,0.333333333
+PI619901,Uganda,East Africa,0.333333333,0,0.333333333
+PI619902,Uganda,East Africa,0.333333333,0,0.333333333
+PI619903,Uganda,East Africa,0,0,0
+PI619904,Uganda,East Africa,0.333333333,0,0.333333333
+PI619920,Uganda,East Africa,0.166666667,0,0.166666667
+PI619921,Uganda,East Africa,0,0,0
+PI619928,Uganda,East Africa,0.333333333,0.090909091,0.424242424
+PI619930,Uganda,East Africa,0.333333333,0,0.333333333
+PI619932,Uganda,East Africa,0,0,0
+PI619933,Uganda,East Africa,0.333333333,0,0.333333333
+PI619935,Uganda,East Africa,0.333333333,0,0.333333333
+PI619938,Uganda,East Africa,0.5,0,0.5
+PI619939,Uganda,East Africa,0.5,0,0.5
+PI619941,Uganda,East Africa,0,0,0
+PI619950,Uganda,East Africa,0.333333333,0,0.333333333
+PI619955,Uganda,East Africa,0,0,0
+PI619956,Uganda,East Africa,0.5,0,0.5
+PI619958,Uganda,East Africa,0,0,0
+PI619959,Uganda,East Africa,0,0,0
+PI619960,Uganda,East Africa,0.166666667,0,0.166666667
+PI619962,Uganda,East Africa,0.166666667,0,0.166666667
+PI619970,Uganda,East Africa,0.333333333,0,0.333333333
+PI619972,Uganda,East Africa,0.333333333,0,0.333333333
+PI619978,Uganda,East Africa,0.166666667,0,0.166666667
+PI619981,Uganda,East Africa,0.166666667,0,0.166666667
+PI619982,Uganda,East Africa,0.333333333,0,0.333333333
+PI619983,Uganda,East Africa,0.333333333,0,0.333333333
+PI619986,Uganda,East Africa,0,0,0
+PI619987,Uganda,East Africa,0,0,0
+PI619988,Uganda,East Africa,0,0,0
+PI619989,Uganda,East Africa,0,0,0
+PI619994,Uganda,East Africa,0,0,0
+PI620007,Uganda,East Africa,0.166666667,0,0.166666667
+PI620020,Uganda,East Africa,0.166666667,0,0.166666667
+PI620024,Uganda,East Africa,0.333333333,0,0.333333333
+PI620026,Uganda,East Africa,0.5,0,0.5
+PI620050,Uganda,East Africa,0.333333333,0,0.333333333
+PI620055,Uganda,East Africa,0.166666667,0,0.166666667
+PI620072,Uganda,East Africa,0.333333333,0,0.333333333
+PI620083,Uganda,East Africa,0.333333333,0,0.333333333
+PI620086,Uganda,East Africa,0.166666667,0,0.166666667
+PI620090,Uganda,East Africa,0,0,0
+PI620092,Uganda,East Africa,0.166666667,0,0.166666667
+PI620094,Uganda,East Africa,0.333333333,0,0.333333333
+PI620097,Uganda,East Africa,0.5,0,0.5
+PI620102,Uganda,East Africa,0.333333333,0,0.333333333
+PI620105,Uganda,East Africa,0.333333333,0,0.333333333
+PI620106,Uganda,East Africa,0.333333333,0,0.333333333
+PI620110,Uganda,East Africa,0.333333333,0,0.333333333
+PI620111,Uganda,East Africa,0.166666667,0,0.166666667
+PI620112,Uganda,East Africa,0.333333333,0,0.333333333
+PI620119,Uganda,East Africa,0.333333333,0,0.333333333
+PI620120,Uganda,East Africa,0.333333333,0,0.333333333
+PI620121,Uganda,East Africa,0.166666667,0,0.166666667
+PI620122,Uganda,East Africa,0.166666667,0,0.166666667
+PI620129,Uganda,East Africa,0.333333333,0,0.333333333
+PI620140,Uganda,East Africa,0.166666667,0,0.166666667
+PI620150,Uganda,East Africa,0.333333333,0,0.333333333
+PI620156,Uganda,East Africa,0.333333333,0,0.333333333
+PI620157,Uganda,East Africa,0.333333333,0,0.333333333
+PI620173,Uganda,East Africa,0.166666667,0,0.166666667
+PI620180,Uganda,East Africa,0.5,0,0.5
+PI620181,Uganda,East Africa,0.5,0,0.5
+PI620367,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620368,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620369,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620370,United Republic of Tanzania,East Africa,0,0,0
+PI620371,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620372,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620373,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620375,United Republic of Tanzania,East Africa,0,0,0
+PI620376,United Republic of Tanzania,East Africa,0,0,0
+PI620377,United Republic of Tanzania,East Africa,0,0,0
+PI620382,United Republic of Tanzania,East Africa,0,0,0
+PI620383,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620385,United Republic of Tanzania,East Africa,0,0,0
+PI620386,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620396,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620405,United Republic of Tanzania,East Africa,0,0,0
+PI620406,United Republic of Tanzania,East Africa,0,0,0
+PI620409,United Republic of Tanzania,East Africa,0,0,0
+PI620411,United Republic of Tanzania,East Africa,0,0,0
+PI620414,United Republic of Tanzania,East Africa,0,0,0
+PI620415,United Republic of Tanzania,East Africa,0,0,0
+PI620416,United Republic of Tanzania,East Africa,0,0,0
+PI620417,United Republic of Tanzania,East Africa,0,0,0
+PI620418,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620423,United Republic of Tanzania,East Africa,0,0,0
+PI620424,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620430,United Republic of Tanzania,East Africa,0,0,0
+PI620431,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620434,United Republic of Tanzania,East Africa,0,0,0
+PI620435,United Republic of Tanzania,East Africa,0,0,0
+PI620446,United Republic of Tanzania,East Africa,0,0,0
+PI620447,United Republic of Tanzania,East Africa,0,0,0
+PI620448,United Republic of Tanzania,East Africa,0.333333333,0,0.333333333
+PI620449,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620453,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620454,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620459,United Republic of Tanzania,East Africa,0,0,0
+PI620460,United Republic of Tanzania,East Africa,0,0,0
+PI620461,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620463,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620466,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620467,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620469,United Republic of Tanzania,East Africa,0,0,0
+PI620472,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620473,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620475,United Republic of Tanzania,East Africa,0,0,0
+PI620476,United Republic of Tanzania,East Africa,0,0,0
+PI620477,United Republic of Tanzania,East Africa,0,0,0
+PI620478,United Republic of Tanzania,East Africa,0,0,0
+PI620479,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620480,United Republic of Tanzania,East Africa,0,0,0
+PI620483,United Republic of Tanzania,East Africa,0,0,0
+PI620484,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620493,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620494,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620495,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620496,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620500,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620501,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620514,United Republic of Tanzania,East Africa,0,0,0
+PI620515,United Republic of Tanzania,East Africa,0,0,0
+PI620516,United Republic of Tanzania,East Africa,0,0,0
+PI620517,United Republic of Tanzania,East Africa,0,0,0
+PI620519,United Republic of Tanzania,East Africa,0,0,0
+PI620520,United Republic of Tanzania,East Africa,0,0,0
+PI620521,United Republic of Tanzania,East Africa,0,0,0
+PI620522,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620523,United Republic of Tanzania,East Africa,0,0,0
+PI620524,United Republic of Tanzania,East Africa,0,0,0
+PI620525,United Republic of Tanzania,East Africa,0,0,0
+PI620527,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620529,United Republic of Tanzania,East Africa,0,0,0
+PI620535,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620536,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620537,United Republic of Tanzania,East Africa,0,0,0
+PI620538,United Republic of Tanzania,East Africa,0,0,0
+PI620539,United Republic of Tanzania,East Africa,0,0,0
+PI620544,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620545,United Republic of Tanzania,East Africa,0,0,0
+PI620547,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620548,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620557,United Republic of Tanzania,East Africa,0,0,0
+PI620560,United Republic of Tanzania,East Africa,0,0,0
+PI620564,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620565,United Republic of Tanzania,East Africa,0,0,0
+PI620567,United Republic of Tanzania,East Africa,0,0,0
+PI620570,United Republic of Tanzania,East Africa,0,0,0
+PI620572,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI620578,United Republic of Tanzania,East Africa,0,0,0
+PI620579,United Republic of Tanzania,East Africa,0,0,0
+PI620610,Uganda,East Africa,0,0,0
+PI620611,Uganda,East Africa,0,0,0
+PI620615,Uganda,East Africa,0.5,0,0.5
+PI620617,Uganda,East Africa,0.166666667,0,0.166666667
+PI620624,Uganda,East Africa,0,0,0
+PI646200,Nigeria,West Africa,0,0,0
+PI646201,Nigeria,West Africa,0,0,0
+PI646202,Nigeria,West Africa,0,0.545454545,0.545454545
+PI646203,Nigeria,West Africa,0,0.181818182,0.181818182
+PI646205,Nigeria,West Africa,0,0.272727273,0.272727273
+PI646206,Nigeria,West Africa,0,0,0
+PI646207,Nigeria,West Africa,0,0.090909091,0.090909091
+PI646208,Nigeria,West Africa,0,0.454545455,0.454545455
+PI646209,Nigeria,West Africa,0,0,0
+PI646210,Nigeria,West Africa,0,0,0
+PI646211,Nigeria,West Africa,0,0.545454545,0.545454545
+PI646212,Nigeria,West Africa,0,0.727272727,0.727272727
+PI646213,Nigeria,West Africa,0,0,0
+PI646214,Nigeria,West Africa,0,0,0
+PI646215,Nigeria,West Africa,0,0,0
+PI646216,Nigeria,West Africa,0,0,0
+PI646217,Nigeria,West Africa,0,0,0
+PI646223,Nigeria,West Africa,0,0,0
+PI646230,Uganda,East Africa,0.166666667,0,0.166666667
+PI646231,Uganda,East Africa,0,0,0
+PI646233,Uganda,East Africa,0,0,0
+PI646234,Uganda,East Africa,0,0,0
+PI646236,Uganda,East Africa,0.166666667,0,0.166666667
+PI646237,Uganda,East Africa,0.166666667,0,0.166666667
+PI646239,Uganda,East Africa,0.5,0,0.5
+PI646240,Uganda,East Africa,0.166666667,0,0.166666667
+PI646241,Uganda,East Africa,0.5,0,0.5
+PI646242,Uganda,East Africa,0,0,0
+PI646243,Uganda,East Africa,0.333333333,0,0.333333333
+PI646245,Uganda,East Africa,0,0,0
+PI646246,Uganda,East Africa,0.166666667,0,0.166666667
+PI646247,Uganda,East Africa,0,0,0
+PI646248,Uganda,East Africa,0,0,0
+PI646249,Uganda,East Africa,0,0,0
+PI646250,Uganda,East Africa,0.333333333,0,0.333333333
+PI646251,Uganda,East Africa,0,0,0
+PI646252,Uganda,East Africa,0,0,0
+PI646254,Uganda,East Africa,0.333333333,0.090909091,0.424242424
+PI646255,Uganda,East Africa,0,0,0
+PI646256,Uganda,East Africa,0.333333333,0,0.333333333
+PI646259,Uganda,East Africa,0.333333333,0,0.333333333
+PI646260,Uganda,East Africa,0.333333333,0,0.333333333
+PI646261,Uganda,East Africa,0.5,0,0.5
+PI646262,Uganda,East Africa,0.333333333,0,0.333333333
+PI646263,Uganda,East Africa,0.333333333,0,0.333333333
+PI646264,Uganda,East Africa,0.333333333,0,0.333333333
+PI646266,Uganda,East Africa,0,0,0
+PI646267,Uganda,East Africa,0.166666667,0,0.166666667
+PI646271,Uganda,East Africa,0,0,0
+PI646279,Uganda,East Africa,0.5,0,0.5
+PI646280,Uganda,East Africa,0.333333333,0,0.333333333
+PI646281,Uganda,East Africa,0.5,0,0.5
+PI646283,Uganda,East Africa,0.666666667,0,0.666666667
+PI646289,Uganda,East Africa,0.333333333,0,0.333333333
+PI646290,Uganda,East Africa,0.333333333,0,0.333333333
+PI646291,Uganda,East Africa,0.333333333,0,0.333333333
+PI646292,Uganda,East Africa,0.5,0,0.5
+PI646293,Uganda,East Africa,0.333333333,0,0.333333333
+PI646294,Uganda,East Africa,0.333333333,0,0.333333333
+PI646295,Uganda,East Africa,0.166666667,0,0.166666667
+PI646296,Uganda,East Africa,0,0,0
+PI646297,Uganda,East Africa,0.166666667,0,0.166666667
+PI646303,Uganda,East Africa,0,0,0
+PI646304,Uganda,East Africa,0.5,0,0.5
+PI646306,Uganda,East Africa,0.333333333,0,0.333333333
+PI646307,Uganda,East Africa,0,0,0
+PI646312,Uganda,East Africa,0,0,0
+PI646313,Uganda,East Africa,0.333333333,0,0.333333333
+PI646315,Uganda,East Africa,0.166666667,0,0.166666667
+PI646316,Uganda,East Africa,0.166666667,0,0.166666667
+PI646317,Uganda,East Africa,0.166666667,0,0.166666667
+PI646319,Uganda,East Africa,0.166666667,0,0.166666667
+PI646320,Uganda,East Africa,0,0,0
+PI646321,Uganda,East Africa,0.333333333,0,0.333333333
+PI646322,Uganda,East Africa,0.166666667,0,0.166666667
+PI646323,Uganda,East Africa,0.166666667,0,0.166666667
+PI646324,Uganda,East Africa,0.333333333,0,0.333333333
+PI646325,Uganda,East Africa,0.333333333,0,0.333333333
+PI646387,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI646388,United Republic of Tanzania,East Africa,0,0,0
+PI646389,United Republic of Tanzania,East Africa,0,0,0
+PI646390,United Republic of Tanzania,East Africa,0,0,0
+PI646391,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI646392,United Republic of Tanzania,East Africa,0.166666667,0,0.166666667
+PI647018,Nigeria,West Africa,0,0.272727273,0.272727273
+PI647019,Nigeria,West Africa,0,0,0
+PI647020,Nigeria,West Africa,0,0.454545455,0.454545455
+PI647021,Nigeria,West Africa,0,0,0
+PI647022,Nigeria,West Africa,0,0,0
+PI647023,Nigeria,West Africa,0,0,0
+PI647024,Nigeria,West Africa,0,0,0
+PI647025,Nigeria,West Africa,0,0,0
+PI647026,Nigeria,West Africa,0,0,0
+PI647027,Nigeria,West Africa,0,0.272727273,0.272727273
+PI647028,Nigeria,West Africa,0,0.090909091,0.090909091
+PI647029,Nigeria,West Africa,0,0.545454545,0.545454545
+PI658758,Nigeria,West Africa,0.166666667,0,0.166666667
+PI659693,South Sudan,East Africa,0,0,0
